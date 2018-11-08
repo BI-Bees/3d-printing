@@ -1,6 +1,6 @@
 # 3d-printing
 
-# Spørgsmål stillet af BI gruppe
+## Spørgsmål stillet af BI gruppe
 
 * Hvilke nationer gør på nuværende tidspunkt brug af 3D-printet hud.   
 * Finde Kliniske logs, på succesfulde operationer, med 3D printet hud og lav en oversigt over over dem.
@@ -16,5 +16,9 @@
 ## Links som kan bruges
 
 Der er et par grafer som måske kan bruges https://www2.mst.dk/Udgiv/publikationer/2016/02/978-87-93435-33-9.pdf
+
 Priser på materiale https://www.3ders.org/pricecompare/
+
 Priser på 3d-printere https://www.3ders.org/pricecompare/3dprinters/
+
+Denne side siger at teknologien til "Three-dimensional printing in medicine" er "FDM" https://www.mja.com.au/journal/2017/207/3/three-dimensional-printing-medicine
