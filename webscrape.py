@@ -51,17 +51,18 @@ if __name__ == '__main__':
     raw_html = codecs.open("2A_Machine Search Results Table.html", 'r')
     html = BeautifulSoup(raw_html, 'html.parser')
     for table in html.select('table'):
-        th_list = []
-        for th in table.select('th'):
-            for a in th.select('a'):
-                print(a)
-                th_list.append(a.text)
-        table_content.append(th_list)
-        for tr in table.select('tr'):
-            tr_list = []
-            for td in tr.select('td'):
-                tr_list.append(td.text)
-            table_content.append(tr_list)
+        if table.get('id') == 'cbTable_500db065861ec6':
+            th_list = []
+            for th in table.select('th'):
+                for a in th.select('a'):
+                    print(a)
+                    th_list.append(a.text)
+            table_content.append(th_list)
+            for tr in table.select('tr'):
+                tr_list = []
+                for td in tr.select('td'):
+                    tr_list.append(td.text)
+                table_content.append(tr_list)
     with myFile:
         writer = csv.writer(myFile)
         writer.writerows(table_content)
