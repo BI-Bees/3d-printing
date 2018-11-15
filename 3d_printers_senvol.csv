@@ -1,0 +1,1014 @@
+Manufacturer,Model,Mode,Power (W),AM Process,General Material Type,Specific Material Type,X (in),Y (in),Z (in),Price (USD),Availability
+
+Click for Details,3BOTS 3D Engineering,KONG3D,Dual, ,Material Extrusion (e.g. FDM),Polymer, ,38.19,38.19,41.34,Price not reported, 
+Click for Details,3BOTS 3D Engineering,KONG3D,Single, ,Material Extrusion (e.g. FDM),Polymer, ,40.16,40.16,41.34,Price not reported, 
+Click for Details,3D Platform,100 Series WorkTable, , ,Material Extrusion (e.g. FDM),Polymer,"PLA, ABS, PC, PA, PVA, HIPS",39.4,39.4,19.7,"Less than $49,999", 
+Click for Details,3D Platform,200 Series Workbench Classic, , ,Material Extrusion (e.g. FDM),Polymer,"PLA, ABS, PC, PA, PVA, HIPS",39.4,39.4,19.7,"Less than $49,999", 
+Click for Details,3D Platform,300 Series Workbench Pro, , ,Material Extrusion (e.g. FDM),Polymer,"PLA, ABS, PC, PA, PVA, HIPS",39.4,39.4,27.55,"Less than $49,999", 
+Click for Details,3D Platform,400 Series Workbench Xtreme, , ,Material Extrusion (e.g. FDM),Polymer,"PLA, ABS, PC, PA, PVA, HIPS",39.4,59,27.55,"Less than $49,999", 
+Click for Details,3D Printerworks,HT 5800, , ,Material Extrusion (e.g. FDM),Polymer, ,17.99,17.99,17.99,"Less than $49,999", 
+Click for Details,3D Systems,DMP Flex 100, ,100,Powder Bed Fusion (e.g. SLS),Metal,"Cobalt, Steel",3.94,3.94,3.15,"$100,000 - $249,999", 
+Click for Details,3D Systems,FabPro 1000, , ,Vat Photopolymerization (e.g. SLA),Polymer,Resin,4.92,2.76,4.72,"Less than $49,999", 
+Click for Details,3D Systems,Figure 4 Production, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,4.91,2.76,13.62,Price not reported, 
+Click for Details,3D Systems,Figure 4 Standalone, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,4.91,2.76,7.87,"Less than $49,999", 
+Click for Details,3D Systems,ProJet 6000 HD,HD, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, ABS-like/PP-like, PC-like, PP-like",10,10,10,"$100,000 - $249,999", 
+Click for Details,3D Systems,ProJet 6000 HD,UHD, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, ABS-like/PP-like, PC-like, PP-like",10,10,10,"$100,000 - $249,999", 
+Click for Details,3D Systems,ProJet 6000 HD,XHD, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, ABS-like/PP-like, PC-like, PP-like",10,10,10,"$100,000 - $249,999", 
+Click for Details,3D Systems,ProJet 7000 HD,HD, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, ABS-like/PP-like, PC-like, PP-like",15,15,10,"$250,000 - $499,999", 
+Click for Details,3D Systems,ProJet 7000 HD,UHD, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, ABS-like/PP-like, PC-like, PP-like",15,15,10,"$250,000 - $499,999", 
+Click for Details,3D Systems,ProJet 7000 HD,XHD, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, ABS-like/PP-like, PC-like, PP-like",15,15,10,"$250,000 - $499,999", 
+Click for Details,3D Systems,ProJet CJP 260Plus, , ,Binder Jetting,Composite,Gypsum,9.29,7.28,5,"Less than $49,999", 
+Click for Details,3D Systems,ProJet CJP 360,Monochrome, ,Binder Jetting,Composite,Gypsum,8,10,8,"Less than $49,999", 
+Click for Details,3D Systems,ProJet CJP 460Plus,Full CMY, ,Binder Jetting,Composite,Gypsum,8,10,8,"Less than $49,999", 
+Click for Details,3D Systems,ProJet CJP 660Pro,Full CMYK, ,Binder Jetting,Composite,Gypsum,10,15,8,"$50,000 - $99,999", 
+Click for Details,3D Systems,ProJet CJP 860Pro,Full CMYK, ,Binder Jetting,Composite,Gypsum,20,15,9,"$100,000 - $249,999", 
+Click for Details,3D Systems,ProJet MJP 2500,HD - High Definition, ,Material Jetting,Polymer, ,11.6,8.3,5.6,Price not reported, 
+Click for Details,3D Systems,ProJet MJP 2500 IC,HD, ,Material Jetting,Wax,Wax-like,11.61,8.31,5.59,Price not reported, 
+Click for Details,3D Systems,ProJet MJP 2500 Plus,HD - High Definition, ,Material Jetting,Polymer, ,11.6,8.3,5.6,Price not reported, 
+Click for Details,3D Systems,ProJet MJP 2500W,XHD, ,Material Jetting,Wax,Wax-like,11.61,8.31,5.59,Price not reported, 
+Click for Details,3D Systems,ProJet MJP 3600,HD, ,Material Jetting,Polymer,"ABS-like, PC-like, Rubber-like",11.75,7.2,8,"$50,000 - $99,999", 
+Click for Details,3D Systems,ProJet MJP 3600,UHD, ,Material Jetting,Polymer,"ABS-like, PC-like, Rubber-like",8,7,8,"$50,000 - $99,999", 
+Click for Details,3D Systems,ProJet MJP 3600,XHD, ,Material Jetting,Polymer,"ABS-like, PC-like, Rubber-like",8,7,8,"$50,000 - $99,999", 
+Click for Details,3D Systems,ProJet MJP 3600 Dental,HDP, ,Material Jetting,Polymer,Acrylic,11.75,7.2,8,"$50,000 - $99,999", 
+Click for Details,3D Systems,ProJet MJP 3600 Dental,HDX, ,Material Jetting,Polymer,Acrylic,11.75,7.2,8,"$50,000 - $99,999", 
+Click for Details,3D Systems,ProJet MJP 3600 Dental,UHD, ,Material Jetting,Polymer,Acrylic,11.75,7.2,8,"$50,000 - $99,999", 
+Click for Details,3D Systems,ProJet MJP 3600 Max,HD, ,Material Jetting,Polymer,"ABS-like, PC-like, Rubber-like",8,7,8,"$50,000 - $99,999", 
+Click for Details,3D Systems,ProJet MJP 3600 Max,UHD, ,Material Jetting,Polymer,"ABS-like, PC-like, Rubber-like",8,7,8,"$50,000 - $99,999", 
+Click for Details,3D Systems,ProJet MJP 3600 Max,XHD, ,Material Jetting,Polymer,"ABS-like, PC-like, Rubber-like",8,7,8,"$50,000 - $99,999", 
+Click for Details,3D Systems,ProJet MJP 3600W,HD, ,Material Jetting,Wax,Wax-like,11.75,7.2,8,"$50,000 - $99,999", 
+Click for Details,3D Systems,ProJet MJP 3600W,UHD, ,Material Jetting,Wax,Wax-like,5,7,8,"$50,000 - $99,999", 
+Click for Details,3D Systems,ProJet MJP 3600W,XHD, ,Material Jetting,Wax,Wax-like,5,7,8,"$50,000 - $99,999", 
+Click for Details,3D Systems,ProJet MJP 3600W Max,HD, ,Material Jetting,Wax,Wax-like,11.75,7.2,8,"$50,000 - $99,999", 
+Click for Details,3D Systems,ProJet MJP 3600W Max,UHD, ,Material Jetting,Wax,Wax-like,11.75,7.2,8,"$50,000 - $99,999", 
+Click for Details,3D Systems,ProJet MJP 3600W Max,XHD, ,Material Jetting,Wax,Wax-like,11.75,7.2,8,"$50,000 - $99,999", 
+Click for Details,3D Systems,ProJet MJP 5600,UHD, ,Material Jetting,Polymer, ,20.4,15,11.8,"$100,000 - $249,999", 
+Click for Details,3D Systems,ProJet MJP 5600,UHDS (Single Material), ,Material Jetting,Polymer, ,20.4,15,11.8,"$100,000 - $249,999", 
+Click for Details,3D Systems,ProJet MJP 5600,XHD, ,Material Jetting,Polymer, ,20.4,15,11.8,"$100,000 - $249,999", 
+Click for Details,3D Systems,ProJet MJP 5600,XHDS (Single Material), ,Material Jetting,Polymer, ,20.4,15,11.8,"$100,000 - $249,999", 
+Click for Details,3D Systems,ProX 800,Full, ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer","ABS-like, ABS-like/PP-like, PP-like",25.6,29.5,21.65,"$250,000 - $499,999", 
+Click for Details,3D Systems,ProX 800,Half, ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer","ABS-like, ABS-like/PP-like, PP-like",25.6,29.5,10.8,"$250,000 - $499,999", 
+Click for Details,3D Systems,ProX 800,Short, ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer","ABS-like, ABS-like/PP-like, PP-like",25.6,29.5,1.97,"$250,000 - $499,999", 
+Click for Details,3D Systems,ProX 950,RDM 950, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, ABS-like/PP-like, PP-like",59,30,22,"$500,000 - $999,999", 
+Click for Details,3D Systems,ProX DMP 100, ,50,Powder Bed Fusion (e.g. SLS),Metal,"Cobalt, Steel",3.94,3.94,3.14,"$100,000 - $249,999", 
+Click for Details,3D Systems,ProX DMP 100,Dental,50,Powder Bed Fusion (e.g. SLS),Metal,"Cobalt, Steel",3.94,3.94,3.14,"$100,000 - $249,999", 
+Click for Details,3D Systems,ProX DMP 200, ,300,Powder Bed Fusion (e.g. SLS),Metal,"Cobalt, Steel, Aluminum",5.51,5.51,3.94,"$250,000 - $499,999", 
+Click for Details,3D Systems,ProX DMP 200,Dental,300,Powder Bed Fusion (e.g. SLS),Metal,"Cobalt, Steel, Aluminum",5.51,5.51,3.94,"$250,000 - $499,999", 
+Click for Details,3D Systems,ProX DMP 300, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Cobalt, Steel, Aluminum",9.84,9.84,11.81,"$500,000 - $999,999", 
+Click for Details,3D Systems,ProX DMP 320, , ,Powder Bed Fusion (e.g. SLS),Metal,"Titanium, Nickel, Steel",10.82,10.82,16.53,"$500,000 - $999,999", 
+Click for Details,3D Systems,ProX SLS 6100, ,100,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Metal",15,12.99,18.11,"$100,000 - $249,999", 
+Click for Details,3D Systems,sPro 60,HD Base,30,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","ABS/PP, PA, PA-Glass, Rubber",15,13,18,"$250,000 - $499,999", 
+Click for Details,3D Systems,sPro 60,HD-HS,70,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","ABS/PP, PA, PA-Glass, Rubber",15,13,18,"$250,000 - $499,999", 
+Click for Details,3DCeram,Ceramaker 100, , ,Vat Photopolymerization (e.g. SLA),Ceramic,"Alumina-like, Zirconia-like",3.94,3.94,3.94,"$250,000 - $499,999", 
+Click for Details,3DCeram,Ceramaker 900, , ,Vat Photopolymerization (e.g. SLA),Ceramic,"Alumina-like, Zirconia-like",11.8,11.8,3.94,"$250,000 - $499,999", 
+Click for Details,3DGence,3DGence INDUSTRY F340,HT Max module, ,Material Extrusion (e.g. FDM),Polymer,"ABS, PLA, PET, PA, PC, PC/ABS, PC-ESD, PEEK",10.24,11.81,13.39,"$50,000 - $99,999", 
+Click for Details,3DGence,3DGence INDUSTRY F340,HT module, ,Material Extrusion (e.g. FDM),Polymer,"ABS, PLA, PET, PA, PC, PC/ABS, PC-ESD, PEEK",10.24,11.81,13.39,"$50,000 - $99,999", 
+Click for Details,3DGence,3DGence INDUSTRY F340,PRO module, ,Material Extrusion (e.g. FDM),Polymer,"ABS, PLA, PET, PA, PC, PC/ABS, PC-ESD, PEEK",10.24,11.81,13.39,"$50,000 - $99,999", 
+Click for Details,3ntr,A2, , ,Material Extrusion (e.g. FDM),Polymer,"ABS, HIPS, PA, PLA, PETG",24.4,13.78,19.3,Price not reported, 
+Click for Details,3ntr,A2-v4, , ,Material Extrusion (e.g. FDM),Polymer,"ABS, HIPS, PA, PLA, PETG",24.4,13.78,19.3,Price not reported, 
+Click for Details,3ntr,A4, , ,Material Extrusion (e.g. FDM),Polymer,"ABS, HIPS, PA, PLA, PETG",11.8,7.87,7.48,Price not reported, 
+Click for Details,3ntr,A4-v4, , ,Material Extrusion (e.g. FDM),Polymer,"ABS, HIPS, PA, PLA, PETG",11.8,7.87,7.48,Price not reported, 
+Click for Details,Ackuretta,Ackuray A135, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,5.31,2.99,5.12,"Less than $49,999", 
+Click for Details,Ackuretta,Ackuray A96, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,3.78,2.13,5.12,"Less than $49,999", 
+Click for Details,Ackuretta,Diplo D140, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,5.51,3.07,4.33,"Less than $49,999", 
+Click for Details,Aconity,AconityLAB,Single,400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Nickel, Aluminum, Titanium, Copper, Cobalt",6.69,6.69,7.87,Price not reported, 
+Click for Details,Aconity,AconityLAB,Single,1000,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Nickel, Aluminum, Titanium, Copper, Cobalt",6.69,6.69,7.87,Price not reported, 
+Click for Details,Aconity,AconityMIDI,Single,400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Nickel, Aluminum, Titanium, Copper, Cobalt",6.69,6.69,7.87,Price not reported, 
+Click for Details,Aconity,AconityMIDI,Single,1000,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Nickel, Aluminum, Titanium, Copper, Cobalt",6.69,6.69,7.87,Price not reported, 
+Click for Details,Aconity,AconityMINI,Single,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Nickel, Aluminum, Titanium, Copper, Cobalt",5.51,5.51,7.87,Price not reported, 
+Click for Details,Aconity,AconityMINI,Single,400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Nickel, Aluminum, Titanium, Copper, Cobalt",5.51,5.51,7.87,Price not reported, 
+Click for Details,Aconity,AconityONE,Single,400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Nickel, Aluminum, Titanium, Copper, Cobalt",15.75,15.75,15.75,Price not reported, 
+Click for Details,Aconity,AconityONE,Single,1000,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Nickel, Aluminum, Titanium, Copper, Cobalt",15.75,15.75,15.75,Price not reported, 
+Click for Details,Additive Industries,MetalFAB1, ,400,Powder Bed Fusion (e.g. SLS),Metal, ,16.54,16.54,15.75,"Greater than $1,000,000", 
+Click for Details,AddUp,AddUp FormUp 350, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Nickel, Titanium, Aluminum",13.78,13.78,13.78,Price not reported, 
+Click for Details,ADMATEC,Admaflex 130, , ,Vat Photopolymerization (e.g. SLA),Ceramic,"Alumina-like, Zirconia-like, Silica-like",3.78,2.12,4.72,Price not reported, 
+Click for Details,ADMATEC,Admetalflex 130, , ,Vat Photopolymerization (e.g. SLA),Metal,"Steel, Nickel",3.78,2.13,4.72,Price not reported, 
+Click for Details,ADMATEC,LASERFLEX Conflux, ,200-400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Nickel",3.94,3.94,3.94,Price not reported, 
+Click for Details,Airwolf 3D,AXIOM 20,Dual Direct, ,Material Extrusion (e.g. FDM),Polymer,"ABS, PC, PP, PA, TPE, TPU, PA-Carbon, PLA, PETG",12.48,11.97,20,"Less than $49,999", 
+Click for Details,Airwolf 3D,AXIOM 20,Single Direct, ,Material Extrusion (e.g. FDM),Polymer,"ABS, PC, PP, PA, TPE, TPU, PA-Carbon, PLA, PETG",12.48,11.97,20,"Less than $49,999", 
+Click for Details,Airwolf 3D,EVO 22, , ,Material Extrusion (e.g. FDM),Polymer,"ABS, PC, PP, PA, TPE, TPU, PA-Carbon, PLA, PETG",12.01,12.01,22.76,"Less than $49,999", 
+Click for Details,AON3D,AON-M2, , ,Material Extrusion (e.g. FDM),Polymer,"PEEK, PEI, PPSU, PSU, TPU, TPE, PVA, ABS, ASA, HIPS, PA, PET, PC",17.87,17.87,25.2,"Less than $49,999", 
+Click for Details,Apium,Apium P155, , ,Material Extrusion (e.g. FDM),Polymer,"PEEK, PVDF, PEI, POM-C",5.51,5.31,5.82,"Less than $49,999", 
+Click for Details,Apium,Apium P220, , ,Material Extrusion (e.g. FDM),Polymer,"PEEK, PVDF, PEI, POM-C",8.27,6.3,6.3,"Less than $49,999", 
+Click for Details,Arburg,Freeformer,3-axis, ,Material Extrusion (e.g. FDM),Polymer,"ABS, ABS/PC, ABS-like, Acrylic, PA, PC, PC/ABS, PEI, PLA, PMMA, PP, PP-like, Resin, Rubber-like, TPE, TPU, TPU-like",7.4,5.3,9.1,"$100,000 - $249,999", 
+Click for Details,Arcam (GE Additive),Arcam A2X, , ,Powder Bed Fusion (e.g. SLS),Metal,"Titanium, Cobalt, Nickel",7.87402,7.87402,14.960638,"$500,000 - $999,999", 
+Click for Details,Arcam (GE Additive),Arcam Q10plus, , ,Powder Bed Fusion (e.g. SLS),Metal,"Titanium, Cobalt",7.87,7.87,7.09,"$500,000 - $999,999", 
+Click for Details,Arcam (GE Additive),Arcam Q20plus, , ,Powder Bed Fusion (e.g. SLS),Metal,"Titanium, Cobalt",13.78,13.78,14.96,"$500,000 - $999,999", 
+Click for Details,Asiga,MAX, , ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",4.69,2.64,2.95,"Less than $49,999", 
+Click for Details,Asiga,MAX,UV, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",4.69,2.64,2.95,"Less than $49,999", 
+Click for Details,Asiga,MAX Mini, , ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",2.05,1.26,2.95,"Less than $49,999", 
+Click for Details,Asiga,MAX Mini,UV, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",2.05,1.26,2.95,"Less than $49,999", 
+Click for Details,Asiga,MAX X,27, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",2.04,1.15,2.95,"Less than $49,999", 
+Click for Details,Asiga,MAX X,27 UV, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",2.04,1.15,2.95,"Less than $49,999", 
+Click for Details,Asiga,MAX X,35, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",2.65,1.49,2.95,"Less than $49,999", 
+Click for Details,Asiga,MAX X,35 UV, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",2.65,1.49,2.95,"Less than $49,999", 
+Click for Details,Asiga,MAX X,43, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",3.24,1.83,2.95,"Less than $49,999", 
+Click for Details,Asiga,MAX X,43 UV, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",3.24,1.83,2.95,"Less than $49,999", 
+Click for Details,Asiga,Pico 2,39, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",2,1.2,2.9,"Less than $49,999", 
+Click for Details,Asiga,Pico 2,39 UV, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",2,1.2,2.9,"Less than $49,999", 
+Click for Details,Asiga,Pico 2,50, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",2.5,1.5,2.9,"Less than $49,999", 
+Click for Details,Asiga,PICO2 HD,37, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",2.79,1.57,2.99,"Less than $49,999", 
+Click for Details,Asiga,PICO2 HD,37 UV, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",2.79,1.57,2.99,"Less than $49,999", 
+Click for Details,Asiga,PRO2,50, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",3.78,2.13,7.87,"Less than $49,999", 
+Click for Details,Asiga,PRO2,50 UV, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",3.78,2.13,7.87,"Less than $49,999", 
+Click for Details,Asiga,PRO2,62, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",4.68,2.63,7.87,"Less than $49,999", 
+Click for Details,Asiga,PRO2,62 UV, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",4.68,2.63,7.87,"Less than $49,999", 
+Click for Details,Asiga,PRO2,75, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",5.67,3.19,7.87,"Less than $49,999", 
+Click for Details,Asiga,PRO2,75 UV, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",5.67,3.19,7.87,"Less than $49,999", 
+Click for Details,Aspect,RaFaEl 150 C-HT, ,60,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, Rubber-like, PPS, PS",4.92,4.92,7.09,"$100,000 - $249,999", 
+Click for Details,Aspect,RaFaEl 150 F-HT, ,60,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, Rubber-like, PPS, PS",4.92,4.92,7.09,"$100,000 - $249,999", 
+Click for Details,Aspect,RaFaEl 300 C, ,60 or 100,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, Rubber-like, PPS, PS",11.02,11.02,14.57,"$250,000 - $499,999", 
+Click for Details,Aspect,RaFaEl 300 F, ,50,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, Rubber-like, PPS, PS",11.02,11.02,14.57,"$250,000 - $499,999", 
+Click for Details,Aspect,RaFaEl 550 C, ,100,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, Rubber-like, PPS, PS",19.69,19.69,18.9,"$500,000 - $999,999", 
+Click for Details,Aspect,RaFaEl 550 F, ,50,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, Rubber-like, PPS, PS",19.69,19.69,18.9,"$500,000 - $999,999", 
+Click for Details,atum 3D,DLP Station 5, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,7.56,4.25,9.84,"Less than $49,999", 
+Click for Details,Aurora Labs,S-Titanium Pro, ,300,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Nickel, Cobalt, Iron, Titanium, Bronze, Brass, Gold, Silver, Aluminum, Refractory Metal",7.87,7.87,19.685,"Less than $49,999", 
+Click for Details,BeAM,MAGIC 800,3-axis,2000,Directed Energy Deposition,Metal,"Titanium, Nickel",19.7,27.6,55.1,"Greater than $1,000,000", 
+Click for Details,BeAM,MAGIC 800,Continuous 5-axis (XYZ+BC),2000,Directed Energy Deposition,Metal,"Titanium, Nickel",47.2,31.5,31.5,"Greater than $1,000,000", 
+Click for Details,BeAM,Modulo 250,5-axis,500,Directed Energy Deposition,Metal,"Titanium, Nickel",15.7,9.8,11.81,"$250,000 - $499,999", 
+Click for Details,BeAM,Modulo 400,5 continuous axis,500,Directed Energy Deposition,Metal, ,25.59,15,15.75,"Greater than $1,000,000", 
+Click for Details,Beijing Longyuan,AFS360, ,50,Powder Bed Fusion (e.g. SLS),"Polymer, Sand","Silicate, PS",14.2,14.2,19.7,"$50,000 - $99,999", 
+Click for Details,Beijing Longyuan,AFS500, ,50,Powder Bed Fusion (e.g. SLS),"Polymer, Sand","Silicate, PS",19.7,19.7,19.7,"$100,000 - $249,999", 
+Click for Details,Beijing Longyuan,AFS-D600,3 axis,1000-3000,Directed Energy Deposition,Metal,"Steel, Titanium, Cobalt, Nickel",23.62,15.74,11.81,Price not reported, 
+Click for Details,Beijing Longyuan,AFS-D800,3 axis,3000-6000,Directed Energy Deposition,Metal,"Steel, Titanium, Cobalt, Nickel, Aluminum, Refractory Metal, Cobalt, Bronze",35.43,35.43,27.56,Price not reported, 
+Click for Details,Beijing Longyuan,AFS-D800,5 axis,3000-6000,Directed Energy Deposition,Metal,"Steel, Titanium, Cobalt, Nickel, Aluminum, Refractory Metal, Cobalt, Bronze",35.43,35.43,27.56,Price not reported, 
+Click for Details,Beijing Longyuan,AFS-D800V,3 axis,3000-6000,Directed Energy Deposition,Metal,"Steel, Titanium, Cobalt, Nickel",31.49,23.62,19.68,Price not reported, 
+Click for Details,Beijing Longyuan,AFS-D800V,5 axis,3000-6000,Directed Energy Deposition,Metal,"Steel, Titanium, Cobalt, Nickel",31.49,23.62,19.68,Price not reported, 
+Click for Details,Beijing Longyuan,AFS-M120, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Nickel, Titanium, Aluminum",4.72,4.72,5.91,"$250,000 - $499,999", 
+Click for Details,Beijing Longyuan,AFS-M120, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Nickel, Titanium, Aluminum",4.72,4.72,5.91,"$250,000 - $499,999", 
+Click for Details,Beijing Longyuan,AFS-M260, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Nickel",10.23,10.23,13.77,"$250,000 - $499,999", 
+Click for Details,Beijing Longyuan,LaserCore-5100, ,55,Powder Bed Fusion (e.g. SLS),"Polymer, Sand", ,22,22,19.7,"$100,000 - $249,999", 
+Click for Details,Beijing Longyuan,LaserCore-5100, ,100,Powder Bed Fusion (e.g. SLS),"Polymer, Sand", ,22,22,19.7,"$100,000 - $249,999", 
+Click for Details,Beijing Longyuan,LaserCore-5300, ,100,Powder Bed Fusion (e.g. SLS),"Polymer, Sand", ,27.6,27.6,19.7,"$100,000 - $249,999", 
+Click for Details,Beijing Longyuan,LaserCore-7000, ,100,Powder Bed Fusion (e.g. SLS),"Polymer, Sand", ,55.11,27.6,19.7,"$100,000 - $249,999", 
+Click for Details,BigRep,BigRep ONE v3, , ,Material Extrusion (e.g. FDM),Polymer,"PLA, PETG, PVA, Biopolymer",39.57,39.57,39.57,"Less than $49,999", 
+Click for Details,BigRep,BigRep Studio, , ,Material Extrusion (e.g. FDM),Polymer,"PLA, CoPolymere, Laywood, Laybrick",19.7,39.4,19.7,Price not reported, 
+Click for Details,BlackBelt,BlackBelt 3D Printer, , ,Material Extrusion (e.g. FDM),Polymer, ,13.39,13.39,51.18,"Less than $49,999", 
+Click for Details,Carbon,Carbon M1,Type B Cassette, ,Vat Photopolymerization (e.g. SLA),Polymer, ,5.55,3.11,12.83,"$100,000 - $249,999", 
+Click for Details,Carbon,Carbon M2, , ,Vat Photopolymerization (e.g. SLA),Polymer,Resin,7.44,4.64,12.83,"$100,000 - $249,999", 
+Click for Details,Carima,DM-200,Pixel Size: 100Âµm, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, Acrylic",7.87,4.33,9.84,"Less than $49,999", 
+Click for Details,Carima,DM-250,Pixel Size: 130Âµm, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, Acrylic",9.84,5.51,9.84,"Less than $49,999", 
+Click for Details,Carima,DS-131, , ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, Acrylic",5.12,2.87,5.12,"Less than $49,999", 
+Click for Details,Carima,IM-110,Pixel Size: 57Âµm, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, Acrylic",4.33,2.4,5.9,"Less than $49,999", 
+Click for Details,Carima,IM-96,Pixel Size: 50Âµm, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, Acrylic",3.77,2.12,5.9,"Less than $49,999", 
+Click for Details,Cincinnati Incorporated,603, , ,Material Extrusion (e.g. FDM),"Polymer, Composite","ABS-Carbon, ABS-Glass, PC-Carbon, PC-Glass, PA-Carbon, PPSU-Carbon, PPS-Carbon, PEI-Carbon, PPE-Carbon, PPE-Glass, PEEK-Carbon,",140,65,36,"$500,000 - $999,999", 
+Click for Details,Cincinnati Incorporated,606, , ,Material Extrusion (e.g. FDM),"Polymer, Composite","ABS-Carbon, ABS-Glass, PC-Carbon, PC-Glass, PA-Carbon, PPSU-Carbon, PPS-Carbon, PEI-Carbon, PPE-Carbon, PPE-Glass, PEEK-Carbon,",140,65,72,"$500,000 - $999,999", 
+Click for Details,Cincinnati Incorporated,608, , ,Material Extrusion (e.g. FDM),"Polymer, Composite","ABS-Carbon, ABS-Glass, PC-Carbon, PC-Glass, PA-Carbon, PPSU-Carbon, PPS-Carbon, PEI-Carbon, PPE-Carbon, PPE-Glass, PEEK-Carbon,",140,65,98,"$500,000 - $999,999", 
+Click for Details,Cincinnati Incorporated,806, , ,Material Extrusion (e.g. FDM),"Polymer, Composite","ABS-Carbon, ABS-Glass, PC-Carbon, PC-Glass, PA-Carbon, PPSU-Carbon, PPS-Carbon, PEI-Carbon, PPE-Carbon, PPE-Glass, PEEK-Carbon,",240,90,72,"Greater than $1,000,000", 
+Click for Details,Cincinnati Incorporated,SAAM, , ,Material Extrusion (e.g. FDM),Polymer,PLA,7.9,7.4,9.4,Price not reported, 
+Click for Details,CMET,ATOMm-4000, , ,Vat Photopolymerization (e.g. SLA),Polymer,"Epoxy, Silicone-like",15.7,15.7,11.8,"$100,000 - $249,999", 
+Click for Details,CMET,ATOMm-8000, , ,Vat Photopolymerization (e.g. SLA),Polymer,"Epoxy, Silicone-like",31.5,23.6,15.7,"$250,000 - $499,999", 
+Click for Details,CMET,Mini Meister MM-10, , ,Vat Photopolymerization (e.g. SLA),Polymer,"Epoxy, Silicone-like",1.73,1.1,2.76,"Less than $49,999", 
+Click for Details,CMET,Mini Meister MM-12, , ,Vat Photopolymerization (e.g. SLA),Polymer,"Epoxy, Silicone-like",3.15,1.97,3.94,"Less than $49,999", 
+Click for Details,CMET,Mini Meister MM-13, , ,Vat Photopolymerization (e.g. SLA),Polymer,"Epoxy, Silicone-like",4.72,2.95,3.94,"Less than $49,999", 
+Click for Details,CMET,Mini Meister MM-NX, , ,Vat Photopolymerization (e.g. SLA),Polymer,"Epoxy, Silicone-like",2.64,1.5,3.94,"Less than $49,999", 
+Click for Details,CMET,RM-3000, , ,Vat Photopolymerization (e.g. SLA),Polymer,"Epoxy, Silicone-like",11.8,11.8,9.8,Price not reported, 
+Click for Details,CMET,RM-6000 II, , ,Vat Photopolymerization (e.g. SLA),Polymer,"Epoxy, Silicone-like",24,24,19.7,Price not reported, 
+Click for Details,Concept Laser (GE Additive),M Line Factory,4 Quad Laser,1000,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Nickel",15.7,15.7,16.7,Price not reported, 
+Click for Details,Concept Laser (GE Additive),M1 cusing, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Cobalt, Nickel, Steel",9.84,9.84,9.84,"$250,000 - $499,999", 
+Click for Details,Concept Laser (GE Additive),M2 cusing, ,400,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Cobalt, Nickel, Steel, Titanium",9.84,9.84,11.02,"$250,000 - $499,999", 
+Click for Details,Concept Laser (GE Additive),M2 cusing, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Cobalt, Nickel, Steel, Titanium",9.84,9.84,11.02,"$250,000 - $499,999", 
+Click for Details,Concept Laser (GE Additive),M2 cusing Multilaser, ,400,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Cobalt, Nickel, Steel, Titanium",9.84,9.84,11.02,"$500,000 - $999,999", 
+Click for Details,Concept Laser (GE Additive),M2 cusing Multilaser, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Cobalt, Nickel, Steel, Titanium",9.84,9.84,11.02,"$500,000 - $999,999", 
+Click for Details,Concept Laser (GE Additive),Mlab cusing, ,50,Powder Bed Fusion (e.g. SLS),Metal,"Cobalt, Steel, Bronze, Gold",3.54,3.54,3.15,"$100,000 - $249,999", 
+Click for Details,Concept Laser (GE Additive),Mlab cusing, ,100,Powder Bed Fusion (e.g. SLS),Metal,"Cobalt, Steel, Bronze, Gold",3.54,3.54,3.15,"$100,000 - $249,999", 
+Click for Details,Concept Laser (GE Additive),Mlab cusing 200R, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Cobalt, Titanium, Steel, Aluminum, Bronze",3.93,3.93,3.93,"$100,000 - $249,999", 
+Click for Details,Concept Laser (GE Additive),Mlab cusing R, ,100,Powder Bed Fusion (e.g. SLS),Metal,"Bronze, Cobalt, Gold, Silver, Steel, Titanium",3.54,3.54,3.15,"$100,000 - $249,999", 
+Click for Details,Concept Laser (GE Additive),X line 2000R, ,1000,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Titanium, Nickel",31.49608,15.74804,19.68505,"Greater than $1,000,000", 
+Click for Details,Coobx,EXIGO 1-110, , ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, PP-like, TPU-like",6.05,3.4,4.33,"Less than $49,999", 
+Click for Details,Coobx,EXIGO 1-350, , ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, PP-like, TPU-like",6.05,3.4,13.78,"Less than $49,999", 
+Click for Details,Cosine,AM1, , ,Material Extrusion (e.g. FDM),"Polymer, Composite", ,43,34,37,"$50,000 - $99,999", 
+Click for Details,Cubicure,Caligma 200, , ,Vat Photopolymerization (e.g. SLA),Polymer,Resin,7.87,3.94,11.81,Price not reported, 
+Click for Details,Cubicure,Caligma 200,UV, ,Vat Photopolymerization (e.g. SLA),Polymer,Resin,7.87,3.94,11.81,Price not reported, 
+Click for Details,Desktop Metal,Studio System+, , ,Material Extrusion (e.g. FDM),Metal, ,11.4,7.4,7.7,"$100,000 - $249,999", 
+Click for Details,Digital Metal (Hoeganaes Group),DM P2500, , ,Binder Jetting,Metal,"Steel, Titanium",7.99,7.09,2.72,Price not reported, 
+Click for Details,D-MEC,ACCULAS, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,2,2, ,Price not reported, 
+Click for Details,D-MEC,SCS-1000HD, , ,Vat Photopolymerization (e.g. SLA),Polymer,"Epoxy, Oxycetane",11.8,11.8,10.6,Price not reported, 
+Click for Details,D-MEC,SCS-6000, , ,Vat Photopolymerization (e.g. SLA),Polymer,Epoxy,11.8,11.8,9.8,Price not reported, 
+Click for Details,D-MEC,SCS-9000, , ,Vat Photopolymerization (e.g. SLA),Polymer,Epoxy,39.4,31.5,19.7,Price not reported, 
+Click for Details,DMG MORI,LASERTEC 30 SLM 2nd Gen, ,600-1000,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Cobalt, Titanium, Aluminum, Nickel",11.81,11.81,11.81,"$500,000 - $999,999", 
+Click for Details,DPP,XLS DPE 3D Printer, , ,Material Extrusion (e.g. FDM),Polymer,"PLA, ABS, PA, PVA, HIPS, TPU",43.31,43.31,7.87,"Less than $49,999", 
+Click for Details,DWS Systems,DFAB Chairside Version, , ,Vat Photopolymerization (e.g. SLA),Ceramic, ,1.85,0.71,1.57,"Less than $49,999", 
+Click for Details,DWS Systems,DFAB Desktop Version, , ,Vat Photopolymerization (e.g. SLA),Ceramic, ,1.85,0.71,1.57,"Less than $49,999", 
+Click for Details,DWS Systems,DigitalWax 009D, , ,Vat Photopolymerization (e.g. SLA),"Polymer, Wax",Wax-like,1.97,1.46,3.94,"Less than $49,999", 
+Click for Details,DWS Systems,DigitalWax 009J, , ,Vat Photopolymerization (e.g. SLA),"Polymer, Wax",Wax-like,1.97,1.46,3.94,"Less than $49,999", 
+Click for Details,DWS Systems,DigitalWax 020D, , ,Vat Photopolymerization (e.g. SLA),"Polymer, Wax",Wax-like,5.12,5.12,3.54,"Less than $49,999", 
+Click for Details,DWS Systems,DigitalWax 020X, , ,Vat Photopolymerization (e.g. SLA),"Polymer, Wax",Wax-like,5.12,5.12,3.54,"Less than $49,999", 
+Click for Details,DWS Systems,DigitalWax 028D, , ,Vat Photopolymerization (e.g. SLA),"Polymer, Wax",Wax-like,3.54,3.54,3.54,"$50,000 - $99,999", 
+Click for Details,DWS Systems,DigitalWax 028J, , ,Vat Photopolymerization (e.g. SLA),"Polymer, Wax",Wax-like,2.56,2.56,3.54,"Less than $49,999", 
+Click for Details,DWS Systems,DigitalWax 028J Plus, , ,Vat Photopolymerization (e.g. SLA),"Polymer, Wax",Wax-like,3.54,3.54,3.54,"$50,000 - $99,999", 
+Click for Details,DWS Systems,DigitalWax 028JE, , ,Vat Photopolymerization (e.g. SLA),"Polymer, Wax",Wax-like,2.56,2.56,3.54,"$50,000 - $99,999", 
+Click for Details,DWS Systems,DigitalWax 029D, , ,Vat Photopolymerization (e.g. SLA),"Polymer, Wax",Wax-like,5.91,5.91,3.94,"$100,000 - $249,999", 
+Click for Details,DWS Systems,DigitalWax 029J, , ,Vat Photopolymerization (e.g. SLA),"Polymer, Wax",Wax-like,4.33,4.33,3.94,"$50,000 - $99,999", 
+Click for Details,DWS Systems,DigitalWax 029J Plus, , ,Vat Photopolymerization (e.g. SLA),"Polymer, Wax",Wax-like,5.91,5.91,3.94,"$100,000 - $249,999", 
+Click for Details,DWS Systems,DigitalWax 029X, , ,Vat Photopolymerization (e.g. SLA),"Polymer, Wax",Wax-like,5.91,5.91,7.87,"$100,000 - $249,999", 
+Click for Details,DWS Systems,DigitalWax 030D HR, , ,Vat Photopolymerization (e.g. SLA),"Polymer, Wax",Wax-like,11.81,11.81,11.81,"$100,000 - $249,999", 
+Click for Details,DWS Systems,DigitalWax 030D SR, , ,Vat Photopolymerization (e.g. SLA),"Polymer, Wax",Wax-like,9.84,9.84,9.84,"$100,000 - $249,999", 
+Click for Details,DWS Systems,DigitalWax 030J, , ,Vat Photopolymerization (e.g. SLA),"Polymer, Wax",Wax-like,11.81,11.81,11.81,"$250,000 - $499,999", 
+Click for Details,DWS Systems,DigitalWax 030X, , ,Vat Photopolymerization (e.g. SLA),"Polymer, Wax",Wax-like,11.81,11.81,11.81,"$250,000 - $499,999", 
+Click for Details,DWS Systems,XFAB 2000, , ,Vat Photopolymerization (e.g. SLA),"Polymer, Wax","ABS-like, PP-like, Acrylic, Rubber-like, Wax-like",7.09,7.09,7.09,"Less than $49,999", 
+Click for Details,DWS Systems,XFAB 2500 HD, , ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, PP-like, Rubber-like",7.09,7.09,7.09,"Less than $49,999", 
+Click for Details,DWS Systems,XFAB 2500 PD, , ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, PP-like, Rubber-like",7.09,7.09,7.09,"Less than $49,999", 
+Click for Details,DWS Systems,XFAB 2500 SD, , ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, PP-like, Rubber-like",7.09,7.09,7.09,"Less than $49,999", 
+Click for Details,DWS Systems,XFAB 3500 HD, , ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, PP-like, Rubber-like",5.51,5.51,7.09,"Less than $49,999", 
+Click for Details,DWS Systems,XFAB 3500 PD, , ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, PP-like, Rubber-like",6.3,6.3,7.09,"Less than $49,999", 
+Click for Details,DWS Systems,XFAB 3500 SD, , ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, PP-like, Rubber-like",5.51,5.51,7.09,"Less than $49,999", 
+Click for Details,DWS Systems,XPRO S, , ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, PP-like, Rubber-like",11.81,11.81,11.81,"$100,000 - $249,999", 
+Click for Details,Dynamical Tools,DT60, , ,Material Extrusion (e.g. FDM),Polymer,"ABS, HIPS, PC, PA, ASA, TPU, PP",23.62,17.72,17.72,"Less than $49,999", 
+Click for Details,Dynamical Tools,DT600+, , ,Material Extrusion (e.g. FDM),Polymer,"ABS, HIPS, PC, PA, ASA, TPU, PP",23.62,17.72,17.72,"Less than $49,999", 
+Click for Details,EnvisionTEC,3Dent, , ,Vat Photopolymerization (e.g. SLA),"Ceramic, Polymer","ABS-like, Gypsum-like",10.5,7,3,"$50,000 - $99,999", 
+Click for Details,EnvisionTEC,Aria, , ,Vat Photopolymerization (e.g. SLA),"Polymer, Wax, Composite",Wax-like,2.56,1.57,3.94,"Less than $49,999", 
+Click for Details,EnvisionTEC,Micro Plus Advantage, , ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer, Wax","ABS-like, Wax-like",2.36,1.77,3.94,Price not reported, 
+Click for Details,EnvisionTEC,Micro Plus cDLM, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,1.77,1.1,2.95,Price not reported, 
+Click for Details,EnvisionTEC,Micro Plus HD, , ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer, Wax","ABS-like, Wax-like",1.77,1.1,3.94,Price not reported, 
+Click for Details,EnvisionTEC,Micro Plus XL, , ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer, Wax",Wax-like,4.72,2.95,3.35,"Less than $49,999", 
+Click for Details,EnvisionTEC,Perfactory 3 DSP, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,5.5,4.1,9.06,"$50,000 - $99,999", 
+Click for Details,EnvisionTEC,Perfactory 3 DSP,ERM, ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,5.5,4.1,9.06,"$50,000 - $99,999", 
+Click for Details,EnvisionTEC,Perfactory 4 LED, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,6.3,3.9,9.06,"$100,000 - $249,999", 
+Click for Details,EnvisionTEC,Perfactory 4 LED,XL, ,Vat Photopolymerization (e.g. SLA),Polymer, ,7.6,4.7,9.06,"$100,000 - $249,999", 
+Click for Details,EnvisionTEC,Perfactory 4 LED XXL, , ,Vat Photopolymerization (e.g. SLA),"Ceramic, Composite, Polymer","ABS-like, Wax-like, Gypsum-like",9.06,5.67,7.87,"$100,000 - $249,999", 
+Click for Details,EnvisionTEC,Perfactory 4 Mini,"ERM, Lens f = 2.36"" (60mm)", ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer, Wax","ABS-like, Wax-like",2.5,1.6,8.66,"$50,000 - $99,999", 
+Click for Details,EnvisionTEC,Perfactory 4 Mini,"ERM, Lens f = 2.95"" (75mm)", ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer, Wax","ABS-like, Wax-like",1.5,0.9,8.66,"$50,000 - $99,999", 
+Click for Details,EnvisionTEC,Perfactory 4 Mini XL,"ERM, Lens f = 2.36"" (60mm)", ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer, Wax","ABS-like, Wax-like",4.5,2.8,8.66,"$50,000 - $99,999", 
+Click for Details,EnvisionTEC,Perfactory 4 Mini XL,"ERM, Lens f = 2.95"" (75mm)", ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer, Wax","ABS-like, Wax-like",3.3,2.1,8.66,"$50,000 - $99,999", 
+Click for Details,EnvisionTEC,Perfactory 4 Mini XL LED,"Lens f + 2.36"" (60mm)", ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer, Wax","ABS-like, Wax-like",4.53,2.83,8.66,Price not reported, 
+Click for Details,EnvisionTEC,Perfactory 4 Mini XL LED,"Lens f + 2.95"" (75mm)", ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer, Wax","ABS-like, Wax-like",3.31,2.07,8.66,Price not reported, 
+Click for Details,EnvisionTEC,Perfactory Aureus PLUS, , ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer, Wax",Wax-like,2.36,1.77,3.15,"Less than $49,999", 
+Click for Details,EnvisionTEC,SLCOM1, , ,Sheet Lamination,Composite, ,30,24,24,Price not reported, 
+Click for Details,EnvisionTEC,ULTRA 3SP, , ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, PP-like",10.5,6.9,7.6,"Less than $49,999", 
+Click for Details,EnvisionTEC,ULTRA 3SP High Definition, , ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, PP-like",10.5,6.9,7.6,"$50,000 - $99,999", 
+Click for Details,EnvisionTEC,ULTRA 3SP Ortho, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,10.5,6.9,3,"Less than $49,999", 
+Click for Details,EnvisionTEC,Vector 3SP, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,11.8,7.9,7.9,Price not reported, 
+Click for Details,EnvisionTEC,Vector 3SP Ortho, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,11.81,11.81,2.76,Price not reported, 
+Click for Details,EnvisionTEC,Vector HD 3SP, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,11.81,6.89,10.83,Price not reported, 
+Click for Details,EnvisionTEC,Vida, , ,Vat Photopolymerization (e.g. SLA),"Ceramic, Composite, Polymer",Gypsum-like,5.511814,3.110238,3.93701,"Less than $49,999", 
+Click for Details,EnvisionTEC,Vida cDLM, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,3.78,2.13,3.94,"Less than $49,999", 
+Click for Details,EnvisionTEC,Vida HD, , ,Vat Photopolymerization (e.g. SLA),"Ceramic, Composite, Polymer", ,3.78,2.13,3.94,"Less than $49,999", 
+Click for Details,EnvisionTEC,Vida HD cDLM, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,3.54,1.97,3.94,Price not reported, 
+Click for Details,EnvisionTEC,Vida UHD, , ,Vat Photopolymerization (e.g. SLA),"Ceramic, Composite, Polymer", ,2.49,1.4,3.94,Price not reported, 
+Click for Details,EnvisionTEC,Vida UHD cDLM, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,2.49,1.4,3.94,Price not reported, 
+Click for Details,EnvisionTEC,Xede 3SP, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,18,18,18,"$100,000 - $249,999", 
+Click for Details,EnvisionTEC,Xede 3SP Ortho, , ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer, Wax","ABS-like, Wax-like",18,18,4,"$100,000 - $249,999", 
+Click for Details,EnvisionTEC,Xtreme 3SP, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,10,15,13,"$100,000 - $249,999", 
+Click for Details,EnvisionTEC,Xtreme 3SP Ortho, , ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer, Wax","ABS-like, Wax-like",10,14.25,4,"$100,000 - $249,999", 
+Click for Details,EnvisionTEC,Xtreme HD 3SP, , ,Vat Photopolymerization (e.g. SLA),"Polymer, Ceramic","ABS-like, Gypsum-like-like",8.5,15,14.02,Price not reported, 
+Click for Details,EOS,EOS M 100, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Cobalt, Steel, Titanium",3.94,3.94,3.7,Price not reported, 
+Click for Details,EOS,EOS M 290, ,400,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Cobalt, Nickel, Steel, Titanium",9.85,9.85,12.8,"$500,000 - $999,999", 
+Click for Details,EOS,EOS M 300-4, ,400,Powder Bed Fusion (e.g. SLS),Metal,"Nickel, Steel",11.81,11.81,15.75,"$500,000 - $999,999", 
+Click for Details,EOS,EOS M 400, ,1000,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Cobalt, Nickel, Steel, Titanium",15.8,15.8,15.8,"Greater than $1,000,000", 
+Click for Details,EOS,EOS M 400-4, ,400,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Cobalt, Nickel, Steel, Titanium",15.8,15.8,15.8,"Greater than $1,000,000", 
+Click for Details,EOS,EOS P 396, ,70,Powder Bed Fusion (e.g. SLS),"Composite, Polymer", ,13.4,13.4,23.6,"$250,000 - $499,999", 
+Click for Details,EOS,EOS P 500, ,70,Powder Bed Fusion (e.g. SLS),Polymer,"PA, PEKK",19.69,12.99,15.75,"$500,000 - $999,999", 
+Click for Details,EOS,EOS P 770, ,70,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Metal, PS",27.6,15,22.9,"$500,000 - $999,999", 
+Click for Details,EOS,EOS P 810, ,70,Powder Bed Fusion (e.g. SLS),Polymer,PEKK,27.56,14.96,14.96,"$500,000 - $999,999", 
+Click for Details,EOS,EOSINT M 280, ,400,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Cobalt, Nickel, Steel, Titanium",9.85,9.85,12.8,"$250,000 - $499,999", 
+Click for Details,EOS,EOSINT P 800, ,50,Powder Bed Fusion (e.g. SLS),"Composite, Polymer",PEEK,27.6,15,22.05,"$500,000 - $999,999", 
+Click for Details,EOS,EOSINT P 800,Standard,50,Powder Bed Fusion (e.g. SLS),"Composite, Polymer",PEEK,27.6,15,22.05,"$500,000 - $999,999", 
+Click for Details,EOS,FORMIGA P 110 Velocis, ,30,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Metal, PS",7.87,9.84,12.99,"$100,000 - $249,999", 
+Click for Details,EOS,Precious M 080, ,100,Powder Bed Fusion (e.g. SLS),Metal,"Gold, Silver, Platinum",3.15,3.15,3.94,"$100,000 - $249,999", 
+Click for Details,EVO-tech,EL-102, , ,Material Extrusion (e.g. FDM),Polymer,"ABS, PPS, ASA, PLA, PET, TPE, HIPS",19.69,15.75,20.08,Price not reported, 
+Click for Details,ExOne,Exerial, , ,Binder Jetting,Sand,"Silicate, Zircon, Chromite",86.61422,47.24412,27.55907,"Greater than $1,000,000", 
+Click for Details,ExOne,Innovent, , ,Binder Jetting,"Metal, Ceramic, Composite","Steel, Bronze, Iron, Cobalt, Glass, Graphite, Refractory Metal, Carbon-Metal Composite",6.3,2.56,2.56,"$100,000 - $249,999", 
+Click for Details,ExOne,M-Flex, , ,Binder Jetting,"Metal, Ceramic, Composite","Steel, Bronze, Iron, Cobalt, Glass, Graphite, Refractory Metal, Carbon-Metal Composite",15.7,9.8,9.8,"$250,000 - $499,999", 
+Click for Details,ExOne,M-Print, , ,Binder Jetting,Metal,Steel,31.5,19.68,15.75,"$100,000 - $249,999", 
+Click for Details,ExOne,S-Max Furan, , ,Binder Jetting,Sand,"Silicate, Zircon, Chromite",70.9,39.37,27.56,"Greater than $1,000,000", 
+Click for Details,ExOne,S-Max+ Phenolic, , ,Binder Jetting,Sand,"Silicate, Zircon, Chromite",70.9,39.37,23.6,"Greater than $1,000,000", 
+Click for Details,ExOne,S-Print Furan, , ,Binder Jetting,Sand,"Silicate, Zircon, Chromite",31.5,19.68,15.75,"$500,000 - $999,999", 
+Click for Details,ExOne,S-Print Phenol, , ,Binder Jetting,Sand,"Silicate, Zircon, Chromite",31.5,19.68,15.75,"$500,000 - $999,999", 
+Click for Details,ExOne,S-Print Silicate, , ,Binder Jetting,Sand,"Silicate, Zircon, Chromite",31.5,19.68,15.75,"$500,000 - $999,999", 
+Click for Details,Fabrisonic,SonicLayer 4000, , ,Sheet Lamination,Metal,"Aluminum, Steel, Titanium, Nickel, Copper, Gold, Silver, Refractory Metal",40,24,24,"Greater than $1,000,000", 
+Click for Details,Fabrisonic,SonicLayer 7200, , ,Sheet Lamination,Metal,"Aluminum, Steel, Titanium, Nickel, Copper, Gold, Silver, Refractory Metal",72,72,36,"Greater than $1,000,000", 
+Click for Details,Fabrisonic,SonicLayer R200, , ,Sheet Lamination,Metal,"Aluminum, Steel, Titanium, Nickel, Copper, Gold, Silver, Refractory Metal",22,12,10,"$250,000 - $499,999", 
+Click for Details,Fonon Corporation,3D Fusion 150, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Steel, Titanium, Nickel, Cobalt",16.54,16.54,15.75,Price not reported, 
+Click for Details,Fonon Corporation,3D Fusion 150, ,400,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Steel, Titanium, Nickel, Cobalt",16.54,16.54,15.75,Price not reported, 
+Click for Details,Fonon Corporation,3D Fusion 150, ,1000,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Steel, Titanium, Nickel, Cobalt",16.54,16.54,15.75,Price not reported, 
+Click for Details,FORMALLOY,L-series, ,2000,Directed Energy Deposition,Metal,"Titanium, Nickel, Cobalt, Steel, Copper",11.81,11.81,7.87,"$100,000 - $249,999", 
+Click for Details,FORMALLOY,X-series, ,8000,Directed Energy Deposition,Metal,"Titanium, Nickel, Cobalt, Steel, Copper",78.74,78.74,78.74,"$250,000 - $499,999", 
+Click for Details,GEFERTEC,arc405, , ,Directed Energy Deposition,Metal, ,15.75,15.75,19.69,"$250,000 - $499,999", 
+Click for Details,GEFERTEC,arc603, , ,Directed Energy Deposition,Metal, ,43.31,55.12,61.42,"$500,000 - $999,999", 
+Click for Details,GEFERTEC,arc605, , ,Directed Energy Deposition,Metal, ,35.43,35.43,43.31,"$500,000 - $999,999", 
+Click for Details,Guangdong Hanbang 3D Tech,HBD-100, ,100,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Cobalt, Titanium, Aluminum, Nickel",4.13,4.13,3.94,Price not reported, 
+Click for Details,Guangdong Hanbang 3D Tech,HBD-100, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Cobalt, Titanium, Aluminum, Nickel",4.13,4.13,3.94,Price not reported, 
+Click for Details,Guangdong Syndaya 3D Technology,DiMetal-100, ,400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum",9.8,9.8,11.8,Price not reported, 
+Click for Details,Guangdong Syndaya 3D Technology,DiMetal-280, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum",9.8,9.8,11.8,Price not reported, 
+Click for Details,Guangdong Syndaya 3D Technology,DiMetal-280, ,400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum",9.8,9.8,11.8,Price not reported, 
+Click for Details,Guangdong Syndaya 3D Technology,DiMetal-400, ,400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum",15.7,15.7,15.7,Price not reported, 
+Click for Details,Guangdong Syndaya 3D Technology,DiMetal-400, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum",15.7,15.7,15.7,Price not reported, 
+Click for Details,Guangdong Syndaya 3D Technology,DiMetal-50, ,100,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum",2,2,2,Price not reported, 
+Click for Details,Guangdong Syndaya 3D Technology,DiMetal-50, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum",2,2,2,Price not reported, 
+Click for Details,HP,HP Jet Fusion 340 3D Printer, , ,Powder Bed Fusion (e.g. SLS),Polymer,PA,7.48,10,9.76,Price not reported, 
+Click for Details,HP,HP Jet Fusion 380 3D Printer, , ,Powder Bed Fusion (e.g. SLS),Polymer,PA,7.48,10,9.76,Price not reported, 
+Click for Details,HP,HP Jet Fusion 3D 4200 Printer, , ,Powder Bed Fusion (e.g. SLS),Polymer,PA,15,11,15,"$100,000 - $249,999", 
+Click for Details,HP,HP Jet Fusion 3D 4210 Printer, , ,Powder Bed Fusion (e.g. SLS),Polymer,PA,15,11,15,"$100,000 - $249,999", 
+Click for Details,HP,HP Jet Fusion 540 3D Printer, , ,Powder Bed Fusion (e.g. SLS),Polymer,PA,7.48,13.07,9.76,Price not reported, 
+Click for Details,HP,HP Jet Fusion 580 3D Printer, , ,Powder Bed Fusion (e.g. SLS),Polymer,PA,7.48,13.07,9.76,Price not reported, 
+Click for Details,Hunan Farsoon,Farsoon 252P,HT,60,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Carbon, PA-Mineral",9.84,9.84,12.6,"$100,000 - $249,999", 
+Click for Details,Hunan Farsoon,Farsoon 252P,ST,100,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Carbon, PA-Mineral",9.84,9.84,12.6,"$100,000 - $249,999", 
+Click for Details,Hunan Farsoon,Farsoon 403P Series,FS,30,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Carbon, PA-Mineral",15.7,15.7,17.7,"$250,000 - $499,999", 
+Click for Details,Hunan Farsoon,Farsoon 403P Series,HS,60,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Carbon, PA-Mineral",15.7,15.7,17.7,"$250,000 - $499,999", 
+Click for Details,Hunan Farsoon,Farsoon 403P Series,SS/HT,100,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Carbon, PA-Mineral",15.7,15.7,17.7,"$250,000 - $499,999", 
+Click for Details,Hunan Farsoon,Farsoon eForm, ,30,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Carbon, PA-Mineral",9.84,9.84,12.6,"$100,000 - $249,999", 
+Click for Details,Hunan Farsoon,FS121M, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Cobalt, Titanium",4.72,4.72,3.94,"$250,000 - $499,999", 
+Click for Details,Hunan Farsoon,FS271M Series, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Cobalt",10.83,10.83,12.6,"$250,000 - $499,999", 
+Click for Details,Hunan Farsoon,FS421M, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Cobalt, Titanium, Aluminum, Bronze, Nickel",16.54,16.54,16.54,"$250,000 - $499,999", 
+Click for Details,Hunan Farsoon,HT1001P, ,100,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Carbon, PA-Mineral",39.37,19.69,17.72,Price not reported, 
+Click for Details,Impossible Objects,CBAM Model One System, , ,Sheet Lamination,"Composite, Polymer","PA-Carbon, PEEK-Carbon",11,15,4,Price not reported, 
+Click for Details,InssTek,MX-1000,"3 Axis Motion Model, SDM 1200",2000,Directed Energy Deposition,Metal,"Steel, Copper, Aluminum, Titanium, Nickel, Cobalt, Tin, Refractory Metal",39.3701,31.49608,25.590565,"$500,000 - $999,999", 
+Click for Details,InssTek,MX-1000,"3 Axis Motion Model, SDM 500",2000,Directed Energy Deposition,Metal,"Steel, Copper, Aluminum, Titanium, Nickel, Cobalt, Tin, Refractory Metal",39.3701,31.49608,25.590565,"$500,000 - $999,999", 
+Click for Details,InssTek,MX-1000,"3 Axis Motion Model, SDM 800",2000,Directed Energy Deposition,Metal,"Steel, Copper, Aluminum, Titanium, Nickel, Cobalt, Tin, Refractory Metal",39.3701,31.49608,25.590565,"$500,000 - $999,999", 
+Click for Details,InssTek,MX-1000,"5 Axis Motion Model, SDM 1200",2000,Directed Energy Deposition,Metal,"Steel, Copper, Aluminum, Titanium, Nickel, Cobalt, Tin, Refractory Metal",39.3701,31.49608,25.590565,"$500,000 - $999,999", 
+Click for Details,InssTek,MX-1000,"5 Axis Motion Model, SDM 500",2000,Directed Energy Deposition,Metal,"Steel, Copper, Aluminum, Titanium, Nickel, Cobalt, Tin, Refractory Metal",39.3701,31.49608,25.590565,"$500,000 - $999,999", 
+Click for Details,InssTek,MX-1000,"5 Axis Motion Model, SDM 800",2000,Directed Energy Deposition,Metal,"Steel, Copper, Aluminum, Titanium, Nickel, Cobalt, Tin, Refractory Metal",39.3701,31.49608,25.590565,"$500,000 - $999,999", 
+Click for Details,InssTek,MX-400,3 Axis Motion,500,Directed Energy Deposition,Metal,"Steel, Nickel",15.75,17.72,11.81,"$500,000 - $999,999", 
+Click for Details,InssTek,MX-400,5 Axis Motion,500,Directed Energy Deposition,Metal,"Steel, Nickel",15.75,17.72,11.81,"$500,000 - $999,999", 
+Click for Details,InssTek,MX-600,3 Axis Motion,1000,Directed Energy Deposition,Metal,"Steel, Nickel",17.7,23.6,13.7,"$500,000 - $999,999", 
+Click for Details,InssTek,MX-600,5 Axis Motion,1000,Directed Energy Deposition,Metal,"Steel, Nickel",17.7,23.6,13.7,"$500,000 - $999,999", 
+Click for Details,InssTek,MX-Grande,6 Axis Motion; 3 axis machine,5000,Directed Energy Deposition,Metal, ,157.4,39.3,39.3,"Greater than $1,000,000", 
+Click for Details,InssTek,MX-Grande,6 Axis Motion; 3 axis mode,5000,Directed Energy Deposition,Metal, ,78.7,39.3,39.3,"Greater than $1,000,000", 
+Click for Details,InssTek,MX-Mini,3 Axis Motion,300,Directed Energy Deposition,Metal, ,7.8,7.8,7.8,Price not reported, 
+Click for Details,InssTek,MX-Mini,3 Axis Motion,500,Directed Energy Deposition,Metal, ,7.8,7.8,7.8,Price not reported, 
+Click for Details,INTAMSYS,FUNMAT PRO, , ,Material Extrusion (e.g. FDM),"Polymer, Composite","PLA, ABS, PA, TPU, PA-Carbon, PLA-Carbon",17.72,17.72,23.62,"Less than $49,999", 
+Click for Details,INTAMSYS,FUNMAT PRO HT, , ,Material Extrusion (e.g. FDM),"Polymer, Composite","PEEK, PEI, PLA, ABS, PA, TPU, PC, PA-Carbon, PLA-Carbon",17.72,17.72,23.62,"Less than $49,999", 
+Click for Details,J Group Robotics,Delta HC 500, , ,Material Extrusion (e.g. FDM),"Composite, Polymer","PLA, ABS, ASA, PA, PP, PLA-Carbon, ABS-Carbon, PA-Carbon, PETG-Carbon, PC-Carbon, PETG, PETG-Glass, PC, ABS/PC, ASA/PC, PVA, HIPS",19.69,19.69,23.62,"Less than $49,999", 
+Click for Details,J Group Robotics,Delta HC 666, , ,Material Extrusion (e.g. FDM),"Composite, Polymer","PEI, PEI-Carbon, PPSF, PSU, PEEK, PLA, ABS, ASA, PA, PP, PLA-Carbon, ABS-Carbon, PA-Carbon, PETG-Carbon, PC-Carbon, PETG, PETG-Glass, PC, ABS/PC, ASA/PC, PVA, HIPS",15.75,15.75,19.69,"$100,000 - $249,999", 
+Click for Details,JewelKreator,JewelKreator Ultra, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,4.57,2.56,5.91,"Less than $49,999", 
+Click for Details,Keyence,Agilista-3110, , ,Material Jetting,Polymer,Resin,11.69,8.27,7.87,"Less than $49,999", 
+Click for Details,Keyence,Agilista-3200, , ,Material Jetting,Polymer,"Rubber-like, silicone-like, resin",11.69,8.27,7.87,"Less than $49,999", 
+Click for Details,Laseradd,DiMetal-300, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Cobalt, Titanium, Nickel",9.84,9.84,11.81,Price not reported, 
+Click for Details,Laseradd,Laseradd DiMetal-100, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Cobalt, Titanium",3.94,3.94,3.94,Price not reported, 
+Click for Details,Laseradd,Laseradd DiMetal-100, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Cobalt, Titanium",3.94,3.94,3.94,Price not reported, 
+Click for Details,Laseradd,Laseradd DiMetal-50, ,70,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Cobalt, Titanium",1.97,1.97,1.97,Price not reported, 
+Click for Details,Laseradd,Laseradd DiMetal-50, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Cobalt, Titanium",1.97,1.97,1.97,Price not reported, 
+Click for Details,Laseradd,SLS-400, ,55,Powder Bed Fusion (e.g. SLS),"Polymer, Ceramic","PA, PP",15.75,15.75,15.75,Price not reported, 
+Click for Details,Leapfrog,Bolt Pro,Double Extruder, ,Material Extrusion (e.g. FDM),"Polymer, Composite","PLA, ABS, HIPS, Flex, PA, Hybrid, Woodfill, PVA, Carbon",12.6,11.81,8.07,"Less than $49,999", 
+Click for Details,Leapfrog,Bolt Pro,Mirror Mode, ,Material Extrusion (e.g. FDM),"Polymer, Composite","PLA, ABS, HIPS, Flex, PA, Hybrid, Woodfill, PVA, Carbon",12.6,6.46,8.07,"Less than $49,999", 
+Click for Details,Leapfrog,Bolt Pro,Replicator Mode, ,Material Extrusion (e.g. FDM),"Polymer, Composite","PLA, ABS, HIPS, Flex, PA, Hybrid, Woodfill, PVA, Carbon",12.6,6.46,8.07,"Less than $49,999", 
+Click for Details,Leapfrog,Bolt Pro,Single Extruder, ,Material Extrusion (e.g. FDM),"Polymer, Composite","PLA, ABS, HIPS, Flex, PA, Hybrid, Woodfill, PVA, Carbon",12.6,12.99,8.07,"Less than $49,999", 
+Click for Details,Leapfrog,XceL,Dual Extruder, ,Material Extrusion (e.g. FDM),"Polymer, Composite","PLA, ABS, HIPS, Flex, PA, Hybrid, Woodfill, PVA, Carbon",20.47,20.08,91.34,"Less than $49,999", 
+Click for Details,Leapfrog,XceL,Singe Extruder, ,Material Extrusion (e.g. FDM),"Polymer, Composite","PLA, ABS, HIPS, Flex, PA, Hybrid, Woodfill, PVA, Carbon",20.47,21.18,91.34,"Less than $49,999", 
+Click for Details,Leapfrog,Xeed,Dual Extruder, ,Material Extrusion (e.g. FDM),"Polymer, Composite","PLA, ABS, HIPS, Flex, PA, Hybrid, Woodfill, PVA, Carbon",8.66,9.84,9.06,"Less than $49,999", 
+Click for Details,Leapfrog,Xeed,Singe Extruder, ,Material Extrusion (e.g. FDM),"Polymer, Composite","PLA, ABS, HIPS, Flex, PA, Hybrid, Woodfill, PVA, Carbon",8.66,11.02,9.06,"Less than $49,999", 
+Click for Details,Lithoz,CeraFab 7500, , ,Vat Photopolymerization (e.g. SLA),Ceramic,"Zirconia-like, Alumina-like",3,1.7,5.9,"$100,000 - $249,999", 
+Click for Details,Lithoz,CeraFab 8500, , ,Vat Photopolymerization (e.g. SLA),Ceramic,"Zirconia-like, Alumina-like",4.5,2.6,5.9,"$100,000 - $249,999", 
+Click for Details,LUTUM,LUTUM v4 DUAL extruder 3D Clay Printer, , ,Material Extrusion (e.g. FDM),Ceramic,Clay,16.93,17.72,19.69,"Less than $49,999", 
+Click for Details,LUTUM,LUTUM v4 MXL 3D Clay Printer, , ,Material Extrusion (e.g. FDM),Ceramic,Clay,16.93,17.72,31.5,"Less than $49,999", 
+Click for Details,LUTUM,LUTUM v4 Standard 3D Clay Printer, , ,Material Extrusion (e.g. FDM),Ceramic,Clay,16.93,17.72,19.69,"Less than $49,999", 
+Click for Details,MarkForged,Mark Two, , ,Material Extrusion (e.g. FDM),"Composite, Polymer","PA, PA-Carbon, PA-Glass, PA-Aramid",12.6,5.2,6,"Less than $49,999", 
+Click for Details,MarkForged,Metal X, , ,Material Extrusion (e.g. FDM),Metal,Steel,9.8,7.2,5.9,"$50,000 - $99,999", 
+Click for Details,MarkForged,Onyx One,Professional, ,Material Extrusion (e.g. FDM),"Composite, Polymer","PA, PA-Carbon, PA-Glass, PA-Aramid",12.6,5.2,6,"Less than $49,999", 
+Click for Details,MarkForged,Onyx One,Standard, ,Material Extrusion (e.g. FDM),"Composite, Polymer","PA, PA-Carbon, PA-Glass, PA-Aramid",12.6,5.2,6,"Less than $49,999", 
+Click for Details,MarkForged,Onyx Pro, , ,Material Extrusion (e.g. FDM),"Composite, Polymer","PA, PA-Glass",12.6,5.2,6,"Less than $49,999", 
+Click for Details,MarkForged,X3, , ,Material Extrusion (e.g. FDM),"Composite, Polymer",PA,12.99,10.63,7.87,"Less than $49,999", 
+Click for Details,MarkForged,X5, , ,Material Extrusion (e.g. FDM),"Composite, Polymer","PA, PA-Glass",12.99,10.63,7.87,"Less than $49,999", 
+Click for Details,MarkForged,X7, , ,Material Extrusion (e.g. FDM),"Composite, Polymer","PA, PA-Carbon, PA-Glass, PA-Aramid",13,9.8,7.87,"$50,000 - $99,999", 
+Click for Details,MASSIVit3D,Massivit 1500, , ,Material Jetting,Polymer, ,57.09,46.06,57.87,Price not reported, 
+Click for Details,MASSIVit3D,MASSIVit 1800, , ,Material Jetting,Polymer, ,48,60,72,"$250,000 - $499,999", 
+Click for Details,MCor Technologies,Matrix 300+, , ,Sheet Lamination,Paper,Paper,10.08,6.65,5.91,"Less than $49,999", 
+Click for Details,MCor Technologies,MCor Arke, , ,Sheet Lamination,Paper,Paper,9.5,8,4.9,"Less than $49,999", 
+Click for Details,MCor Technologies,MCor IRIS HD, , ,Sheet Lamination,Paper,Paper,10.08,6.65,5.91,"Less than $49,999", 
+Click for Details,Mimaki,3DUJ-553, , ,Material Jetting,Polymer, ,20,20,12.01,"$250,000 - $499,999", 
+Click for Details,miniFactory,Innovator2, , ,Material Extrusion (e.g. FDM),Polymer,"PEEK, ABS, PA",14.57,10.24,11.81,"Less than $49,999", 
+Click for Details,miniFactory,miniFactory Ultra, , ,Material Extrusion (e.g. FDM),Polymer,"PEI, PEKK, PEEK",12.99,7.09,7.09,"$50,000 - $99,999", 
+Click for Details,Mutoh,MF-2500EP, , ,Material Extrusion (e.g. FDM),Polymer,"ABS, PLA, TPC, SB, PVA",11.81,11.81,11.81,"Less than $49,999", 
+Click for Details,Mutoh,ML-200, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,7.56,4.25,7.87,"Less than $49,999", 
+Click for Details,Mutoh,ML-48, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,1.89,1.06,3.15,"Less than $49,999", 
+Click for Details,Mutoh,MR-5000, , ,Material Extrusion (e.g. FDM),Polymer,"ABS, PC, PA, PBT",19.69,19.69,19.69,"$50,000 - $99,999", 
+Click for Details,Nexa3D,NXV, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,7.09,5.51,7.87,"Less than $49,999", 
+Click for Details,NextDent (by 3D Systems),NextDent 5100, , ,Vat Photopolymerization (e.g. SLA),Polymer,Resin,4.91,2.76,7.72,"Less than $49,999", 
+Click for Details,Optomec,LENS 450, ,400,Directed Energy Deposition,Metal,"Steel, Nickel, Titanium, Cobalt, Aluminum",3.94,3.94,3.94,"$250,000 - $499,999", 
+Click for Details,Optomec,LENS 850-R, ,1000,Directed Energy Deposition,Metal,"Steel, Nickel, Titanium, Cobalt, Aluminum",35.43,59.06,35.43,"$500,000 - $999,999", 
+Click for Details,Optomec,LENS 850-R, ,4000,Directed Energy Deposition,Metal,"Steel, Nickel, Titanium, Cobalt, Aluminum",35.43,59.06,35.43,"$500,000 - $999,999", 
+Click for Details,Optomec,LENS 850-R, ,2000,Directed Energy Deposition,Metal,"Steel, Nickel, Titanium, Cobalt, Aluminum",35.43,59.06,35.43,"$500,000 - $999,999", 
+Click for Details,Optomec,LENS 850-R, ,3000,Directed Energy Deposition,Metal,"Steel, Nickel, Titanium, Cobalt, Aluminum",35.43,59.06,35.43,"$500,000 - $999,999", 
+Click for Details,Optomec,LENS MR-7, ,500,Directed Energy Deposition,Metal,"Steel, Nickel, Titanium, Cobalt, Aluminum",11.81,11.81,11.81,"$500,000 - $999,999", 
+Click for Details,Optomec,LENS MR-7, ,1000,Directed Energy Deposition,Metal,"Steel, Nickel, Titanium, Cobalt, Aluminum",11.81,11.81,11.81,"$500,000 - $999,999", 
+Click for Details,Optomec,LENS MR-7, ,2000,Directed Energy Deposition,Metal,"Steel, Nickel, Titanium, Cobalt, Aluminum",11.81,11.81,11.81,"$500,000 - $999,999", 
+Click for Details,OR Laser,Orlas Creator, ,250,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Cobalt, Aluminum, Nickel, Titanium,",3.94,3.94,4.33,Price not reported, 
+Click for Details,PrismLab,RP300, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,11.34,6.38,11.02,"$50,000 - $99,999", 
+Click for Details,PrismLab,RP400, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,8.5,15.12,15.12,"$50,000 - $99,999", 
+Click for Details,PrismLab,RP600, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,22.68,12.76,22.83,Price not reported, 
+Click for Details,Prodways,ProMaker L5000, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,15.75,12.99,15.75,"$100,000 - $249,999", 
+Click for Details,Prodways,ProMaker L5000 D, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,15.75,12.99,7.87,"$100,000 - $249,999", 
+Click for Details,Prodways,ProMaker L6000, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,31.5,12.99,15.75,"$250,000 - $499,999", 
+Click for Details,Prodways,ProMaker L6000 D, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,31.5,12.99,7.87,"$250,000 - $499,999", 
+Click for Details,Prodways,ProMaker L7000, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,31.5,12.99,15.75,"$250,000 - $499,999", 
+Click for Details,Prodways,ProMaker L7000 D, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,31.5,12.99,7.87,"$250,000 - $499,999", 
+Click for Details,Prodways,ProMaker LD-10, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,11.81,17.52,7.87,"$100,000 - $249,999", 
+Click for Details,Prodways,ProMaker LD3, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,2.52,4.72,5.12,"Less than $49,999", 
+Click for Details,Prodways,ProMaker P1000, ,30,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Carbon, PA-Glass, PA-Mineral",11,11,11,Price not reported, 
+Click for Details,Prodways,ProMaker P2000 HT, ,60,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Carbon, PA-Glass, PA-Mineral, TPU",9.84,9.84,12.6,Price not reported, 
+Click for Details,Prodways,ProMaker P2000 SD, ,30,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Carbon, PA-Glass, PA-Mineral, TPU",9.84,9.84,12.6,Price not reported, 
+Click for Details,Prodways,ProMaker P2000 ST, ,100,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Carbon, PA-Glass, PA-Mineral, TPU",9.84,9.84,12.6,Price not reported, 
+Click for Details,Prodways,ProMaker P4500 HS, ,60,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Carbon, PA-Glass, PA-Mineral",15.75,15.75,17.72,Price not reported, 
+Click for Details,Prodways,ProMaker P4500 HT, ,100,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Carbon, PA-Glass, PA-Mineral",15.75,15.75,17.72,Price not reported, 
+Click for Details,Prodways,ProMaker P4500 SD, ,30,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Carbon, PA-Glass, PA-Mineral",15.75,15.75,17.72,Price not reported, 
+Click for Details,Prodways,ProMaker P4500 X, ,100,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Carbon, PA-Glass, PA-Mineral",15.75,15.75,17.72,Price not reported, 
+Click for Details,Prodways,ProMaker V6000, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,4.72,19.69,5.91,"$250,000 - $499,999", 
+Click for Details,Rapid Shape,D20 II, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,5.12,2.95,3.54,"Less than $49,999", 
+Click for Details,Rapid Shape,D30 II, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,5.12,2.95,4.33,"Less than $49,999", 
+Click for Details,Rapid Shape,D40 II, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,5.12,2.95,4.33,"Less than $49,999", 
+Click for Details,Rapid Shape,D90 II UV, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,6.3,3.94,5.91,"$50,000 - $99,999", 
+Click for Details,Rapid Shape,D90 II UV,XL, ,Vat Photopolymerization (e.g. SLA),Polymer, ,7.56,4.72,5.91,"$50,000 - $99,999", 
+Click for Details,Rapid Shape,HA20 II, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,3.5,1.97,3.54,"Less than $49,999", 
+Click for Details,Rapid Shape,HA30 II, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,5.12,2.95,3.54,"Less than $49,999", 
+Click for Details,Rapid Shape,HA40 II, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,5.91,3.35,4.33,"Less than $49,999", 
+Click for Details,Rapid Shape,HA90 Speed, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,6.3,3.94,5.91,"$50,000 - $99,999", 
+Click for Details,Rapid Shape,HA90 Speed XL, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,7.56,4.72,5.91,"$50,000 - $99,999", 
+Click for Details,Rapid Shape,S30, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,1.968505,1.220473,3.149608,"Less than $49,999", 
+Click for Details,Rapid Shape,S30 e, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,4.33,2.44,3.15,"Less than $49,999", 
+Click for Details,Rapid Shape,S30 L, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,3.267718,1.811025,3.149608,"Less than $49,999", 
+Click for Details,Rapid Shape,S40, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,3.27,1.81,3.15,"Less than $49,999", 
+Click for Details,Rapid Shape,S60,Maxi, ,Vat Photopolymerization (e.g. SLA),Polymer, ,4.88,2.76,4.33,"$50,000 - $99,999", 
+Click for Details,Rapid Shape,S60,Midi, ,Vat Photopolymerization (e.g. SLA),Polymer, ,3.74,2.09,4.33,"$50,000 - $99,999", 
+Click for Details,Rapid Shape,S90 speed, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,6.3,3.94,6.1,"$50,000 - $99,999", 
+Click for Details,Rapid Shape,S90 speed XL, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,7.56,4.72,6.1,"$50,000 - $99,999", 
+Click for Details,Raplas,RPS-2 450 HD+, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,17.72,17.72,13.78,Price not reported, 
+Click for Details,Raplas,RPS-2 700 HD+, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,27.56,27.56,19.69,Price not reported, 
+Click for Details,Raycham,RC-LDM1500-5N, ,2000-15000,Directed Energy Deposition,Metal,"Steel, Titanium, Aluminum, Cobalt, Nickel, Copper",59.06,39.37,39.37,Price not reported, 
+Click for Details,Raycham,RC-LDM2020, ,500-2000,Directed Energy Deposition,Metal,"Steel, Titanium, Aluminum, Cobalt, Nickel, Copper",7.87,7.87,7.87,Price not reported, 
+Click for Details,Raycham,RC-LDM4000, ,2000-15000,Directed Energy Deposition,Metal,"Steel, Titanium, Aluminum, Cobalt, Nickel, Copper",157.48,137.8,118.11,Price not reported, 
+Click for Details,Raycham,RC-LDM8060, ,2000-15000,Directed Energy Deposition,Metal,"Steel, Titanium, Aluminum, Cobalt, Nickel, Copper",31.5,23.62,35.43,Price not reported, 
+Click for Details,Raycham,RC-M250, ,200-400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Aluminum, Cobalt, Nickel",9.84,9.84,11.81,Price not reported, 
+Click for Details,Raycham,RC-M400, ,200-400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Aluminum, Cobalt, Nickel",9.84,9.84,11.81,Price not reported, 
+Click for Details,Raycham,RC-WAAM-150100, , ,Directed Energy Deposition,Metal,"Titanium, Aluminum, Steel, Copper",59.06,39.37,39.37,Price not reported, 
+Click for Details,Raycham,RC-WAAM-3020, , ,Directed Energy Deposition,Metal,"Titanium, Aluminum, Steel, Copper",118.11,78.74,39.37,Price not reported, 
+Click for Details,Re3D,Gigabot 3+, , ,Material Extrusion (e.g. FDM),Polymer,"PLA, ABS, PA, PET",23.23,23.62,23.62,"Less than $49,999", 
+Click for Details,Re3D,Gigabot 3+,Dual Extruder, ,Material Extrusion (e.g. FDM),Polymer,"PLA, ABS, PA, PET",21.26,23.62,23.62,"Less than $49,999", 
+Click for Details,Re3D,Gigabot 3+ XL, , ,Material Extrusion (e.g. FDM),Polymer,"PLA, ABS, PA, PET",23.23,29.92,23.62,"Less than $49,999", 
+Click for Details,Re3D,Gigabot 3+ XL,Dual Extruder, ,Material Extrusion (e.g. FDM),Polymer,"PLA, ABS, PA, PET",21.26,29.92,23.62,"Less than $49,999", 
+Click for Details,Re3D,Gigabot 3+ XLT, , ,Material Extrusion (e.g. FDM),Polymer,"PLA, ABS, PA, PET",23.23,29.92,35.43,"Less than $49,999", 
+Click for Details,Realizer,SLM 125 (Realizer), ,400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Aluminum, Cobalt, Nickel",4.92,4.92,7.87,"$250,000 - $499,999", 
+Click for Details,Realizer,SLM 250, ,400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Aluminum, Cobalt, Nickel",9.84,9.84,11.81,"$250,000 - $499,999", 
+Click for Details,Realizer,SLM 300i, ,400-1000,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Aluminum, Cobalt, Nickel",11.8,11.8,11.02,Price not reported, 
+Click for Details,Realizer,SLM 50, , ,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Aluminum, Cobalt, Nickel, Gold",2.76,2.76,1.57,"$100,000 - $249,999", 
+Click for Details,Renishaw,AM 250, ,400,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Nickel, Titanium, Steel, Cobalt",9.65,9.65,11.81,"$500,000 - $999,999", 
+Click for Details,Renishaw,AM 250, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Nickel, Titanium, Steel, Cobalt",9.65,9.65,11.81,"$500,000 - $999,999", 
+Click for Details,Renishaw,AM 400, ,400,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Nickel, Titanium, Steel, Cobalt",9.84,9.84,11.81,Price not reported, 
+Click for Details,Renishaw,RenAM 500M, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Nickel, Titanium, Steel, Cobalt",9.84,9.84,13.78,Price not reported, 
+Click for Details,Renishaw,RenAM 500Q, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Nickel, Titanium, Steel, Cobalt",9.65,9.65,13.23,Price not reported, 
+Click for Details,RICOH,RICOH AM S5500P, ,100,Powder Bed Fusion (e.g. SLS),Polymer,"PA, PP, PA-Glass, PA-Carbon",21.6,21.6,21.6,"$500,000 - $999,999", 
+Click for Details,Rize,Rize One, , ,Material Extrusion (e.g. FDM),Polymer, ,12,8,6,"Less than $49,999", 
+Click for Details,Roboze,Argo 500, , ,Material Extrusion (e.g. FDM),"Composite, Polymer","PEEK, PEEK-CF, PEI",19.69,19.69,19.69,"$100,000 - $249,999", 
+Click for Details,Roboze,Roboze One, , ,Material Extrusion (e.g. FDM),"Composite, Polymer","PA, PA-Carbon, ABS, TPE, PLA",11.02,8.66,7.87,"Less than $49,999", 
+Click for Details,Roboze,Roboze one+400, , ,Material Extrusion (e.g. FDM),"Composite, Polymer","PEEK, PEI, PA-Carbon, ABS, PMMA, PVA, HIPS",7.9,7.9,7.9,Price not reported, 
+Click for Details,Roland,DWP-80S, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,3.15,3.15,3.15,"Less than $49,999", 
+Click for Details,Sciaky,EBAM 110, , ,Directed Energy Deposition,Metal,"Titanium, Nickel, Steel, Aluminum, Refractory Metal, Zirconium, Copper",70,47,63,"Greater than $1,000,000", 
+Click for Details,Sciaky,EBAM 150, , ,Directed Energy Deposition,Metal,"Titanium, Nickel, Steel, Aluminum, Refractory Metal, Zirconium, Copper",110,62,62,"Greater than $1,000,000", 
+Click for Details,Sciaky,EBAM 300, , ,Directed Energy Deposition,Metal,"Titanium, Nickel, Steel, Aluminum, Refractory Metal, Zirconium, Copper",228,48,48,"Greater than $1,000,000", 
+Click for Details,Sciaky,EBAM 68, , ,Directed Energy Deposition,Metal,"Titanium, Nickel, Steel, Aluminum, Refractory Metal, Zirconium, Copper",28,25,63,"Greater than $1,000,000", 
+Click for Details,Sciaky,EBAM 88, , ,Directed Energy Deposition,Metal,"Titanium, Nickel, Steel, Aluminum, Refractory Metal, Zirconium, Copper",48,35,63,"Greater than $1,000,000", 
+Click for Details,Sentrol,SM250, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Nickel, Cobalt, Steel, Titanium",9.84,9.84,3.94,Price not reported, 
+Click for Details,Sentrol,SMJ80, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Gold, Silver, Titanium, Bronze, Steel",3.15,3.15,3.15,Price not reported, 
+Click for Details,Shaanxi Hengtong,Digital Light Processing, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,5.91,4.72,3.15,"Less than $49,999", 
+Click for Details,Shaanxi Hengtong,High Temp FDM, , ,Material Extrusion (e.g. FDM),Polymer,"PA, PEI, PEEK",9.45,9.45,7.87,Price not reported, 
+Click for Details,Shaanxi Hengtong,SCPS350B, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,13.78,13.78,9.84,"$50,000 - $99,999", 
+Click for Details,Shaanxi Hengtong,SLS 1200, ,100,Powder Bed Fusion (e.g. SLS),Sand,Silicate,47.2,23.6,23.6,Price not reported, 
+Click for Details,Shaanxi Hengtong,SPS250E, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,9.84,9.84,5.91,Price not reported, 
+Click for Details,Shaanxi Hengtong,SPS250J, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,9.84,9.84,3.94,Price not reported, 
+Click for Details,Shaanxi Hengtong,SPS250M, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,9.84,9.84,9.84,Price not reported, 
+Click for Details,Shaanxi Hengtong,SPS350B, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,13.78,13.78,13.78,"$100,000 - $249,999", 
+Click for Details,Shaanxi Hengtong,SPS450B, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,17.72,17.72,13.78,"$100,000 - $249,999", 
+Click for Details,Shaanxi Hengtong,SPS600B, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,23.62,23.62,15.75,"$250,000 - $499,999", 
+Click for Details,Shaanxi Hengtong,SPS800, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,31.5,23.62,15.75,Price not reported, 
+Click for Details,Shaanxi Hengtong,Surface Forming 3D Printer, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,7.48,3.94,7.09,Price not reported, 
+Click for Details,Shanghai Union Technology,FM450, ,1,Vat Photopolymerization (e.g. SLA),Polymer, ,17.72,17.72,13.78,"$100,000 - $249,999", 
+Click for Details,Shanghai Union Technology,FM700, ,1,Vat Photopolymerization (e.g. SLA),Polymer, ,27.56,13.78,13.78,"$250,000 - $499,999", 
+Click for Details,Shanghai Union Technology,Pilot 250, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,9.84,9.84,9.84,"$100,000 - $249,999", 
+Click for Details,Shanghai Union Technology,Pilot 450, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,17.72,17.72,15.75,"$100,000 - $249,999", 
+Click for Details,Shanghai Union Technology,RSPro 600,Full Vat, ,Vat Photopolymerization (e.g. SLA),Polymer, ,23.6,23.6,19.7,"$100,000 - $249,999", 
+Click for Details,Shanghai Union Technology,RSPro 600,Half Vat, ,Vat Photopolymerization (e.g. SLA),Polymer, ,23.6,23.6,13.8,"$100,000 - $249,999", 
+Click for Details,Shanghai Union Technology,RSPro 800,Full Vat, ,Vat Photopolymerization (e.g. SLA),Polymer, ,31.5,31.5,21.6,"$250,000 - $499,999", 
+Click for Details,Shanghai Union Technology,RSPro 800,Half Vat, ,Vat Photopolymerization (e.g. SLA),Polymer, ,31.5,31.5,11.8,"$250,000 - $499,999", 
+Click for Details,Sharebot,Antares, ,0.15,Vat Photopolymerization (e.g. SLA),Polymer, ,9.84,9.84,9.84,"Less than $49,999", 
+Click for Details,Sharebot,Next Generation XXL Plus, , ,Material Extrusion (e.g. FDM),"Polymer, Composite","PLA, TPU, ABS, Wood-like",28.35,9.84,7.87,"Less than $49,999", 
+Click for Details,Sharebot,Sharebot Q, , ,Material Extrusion (e.g. FDM),"Polymer, Composite","PLA, TPU, PA-Carbon, PA-Glass, Wood-like",11.81,15.75,11.81,"Less than $49,999", 
+Click for Details,Sharebot,Sharebot QXXL, , ,Material Extrusion (e.g. FDM),"Polymer, Composite","PLA, ABS, PA-Carbon, PA-Glass, PP, TPU, ASA",27.56,13.78,11.81,"Less than $49,999", 
+Click for Details,Sharebot,Snow White, , ,Powder Bed Fusion (e.g. SLS),"Polymer, Composite",PA,3.94,3.94,3.94,Price not reported, 
+Click for Details,Shining 3D,EP-C3650, ,55,Powder Bed Fusion (e.g. SLS),"Polymer, Sand, Wax","Resin Sand, PS, Wax Powder",14.2,14.2,19.6,Price not reported, 
+Click for Details,Shining 3D,EP-C5050, ,55,Powder Bed Fusion (e.g. SLS),"Polymer, Sand, Wax","Resin Sand, PS, Wax Powder",19.6,19.6,19.6,Price not reported, 
+Click for Details,Shining 3D,EP-M100T, ,100,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Nickel, Titanium, Cobalt, Aluminum, Copper, Tungsten",4.72,4.72,3.15,Price not reported, 
+Click for Details,Shining 3D,EP-M100T, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Nickel, Titanium, Cobalt, Aluminum, Copper, Tungsten",4.72,4.72,3.15,Price not reported, 
+Click for Details,Shining 3D,EP-M250, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Cobalt, Aluminum, Titanium, Nickel",9.84,9.84,11.8,Price not reported, 
+Click for Details,Shining 3D,EP-M250, ,400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Cobalt, Aluminum, Titanium, Nickel",9.84,9.84,11.8,Price not reported, 
+Click for Details,Shining 3D,EP-P3850 SLS, ,55,Powder Bed Fusion (e.g. SLS),"Polymer, Composite","PA, PA-Glass, PP, TPU, PE, TPE",14.96,14.96,19.69,Price not reported, 
+Click for Details,Shining 3D,iSLA-350, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,13.78,13.78,11.81,Price not reported, 
+Click for Details,Shining 3D,iSLA-450 Pro, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,17.7,17.7,15.7,Price not reported, 
+Click for Details,Shining 3D,iSLA-650 Pro, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,25.6,23.6,15.7,Price not reported, 
+Click for Details,Sinterit,Sinterit Lisa, ,5,Powder Bed Fusion (e.g. SLS),Polymer,PA,5.9,7.9,5.9,"Less than $49,999", 
+Click for Details,Sintratec,Sintratec Kit, , ,Powder Bed Fusion (e.g. SLS),Polymer,PA,5.1,5.1,5.1,"Less than $49,999", 
+Click for Details,Sintratec,Sintratec S1, , ,Powder Bed Fusion (e.g. SLS),Polymer,PA,5.12,5.12,7.09,Price not reported, 
+Click for Details,Sisma,EVE res20, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,3.94,3.94,5.91,Price not reported, 
+Click for Details,Sisma,Mysint 300, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Bronze, Cobalt, Steel, Nickel, Aluminum, Titanium",11.8,11.8,15.75,Price not reported, 
+Click for Details,Sisma,mysint100, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Bronze, Cobalt, Gold, Silver, Steel, Nickel",3.94,3.94,3.94,"$100,000 - $249,999", 
+Click for Details,Sisma,mysint100 Dual Laser, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Bronze, Cobalt, Gold, Silver, Steel, Nickel",3.94,3.94,3.94,"$100,000 - $249,999", 
+Click for Details,SLM Solutions,SLM 125,Single (1x400W),400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum, Nickel",4.92,4.92,4.92,"$250,000 - $499,999", 
+Click for Details,SLM Solutions,SLM 280 2.0,"Dual (1x700W, 1x1000W)","700, 1000",Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum, Nickel",11.02,11.02,14.3,"$500,000 - $999,999", 
+Click for Details,SLM Solutions,SLM 280 2.0,Single (1x400W),400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum, Nickel",11.02,11.02,14.3,"$500,000 - $999,999", 
+Click for Details,SLM Solutions,SLM 280 2.0,Single (1x700),700,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum, Nickel",11.02,11.02,14.3,"$500,000 - $999,999", 
+Click for Details,SLM Solutions,SLM 280 2.0,Twin (2x400W),400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum, Nickel",11.02,11.02,14.3,"$500,000 - $999,999", 
+Click for Details,SLM Solutions,SLM 280 2.0,Twin (2x700W),700,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum, Nickel",11.02,11.02,14.3,"$500,000 - $999,999", 
+Click for Details,SLM Solutions,SLM 500,Quad (4x400W),400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum, Nickel",19.69,11.02,14.3,"Greater than $1,000,000", 
+Click for Details,SLM Solutions,SLM 500,Quad (4x700W),700,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum, Nickel",19.69,11.02,14.3,"Greater than $1,000,000", 
+Click for Details,SLM Solutions,SLM 500,Twin (2x400W),400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum, Nickel",19.69,11.02,14.3,"Greater than $1,000,000", 
+Click for Details,SLM Solutions,SLM 500,Twin (2x700W),700,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum, Nickel",19.69,11.02,14.3,"Greater than $1,000,000", 
+Click for Details,Solidscape (A Prodways Company),Solidscape S350, , ,Material Jetting,Wax,Wax-like,6,6,4,"Less than $49,999", 
+Click for Details,Solidscape (A Prodways Company),Solidscape S370, , ,Material Jetting,Wax,Wax-like,6,6,4,"Less than $49,999", 
+Click for Details,Solidscape (A Prodways Company),Solidscape S390, , ,Material Jetting,Wax,Wax-like,6,6,2,"Less than $49,999", 
+Click for Details,Solidscape (A Prodways Company),Solidscape S500, , ,Material Jetting,Wax,Wax-like,6,6,4.4,"Less than $49,999", 
+Click for Details,Sondasys,LA1100 dual,Custom, ,Vat Photopolymerization (e.g. SLA),Polymer, ,39.37,39.37,19.69,Price not reported, 
+Click for Details,Sondasys,LA1100 dual,Standard, ,Vat Photopolymerization (e.g. SLA),Polymer, ,39.37,39.37,23.62,Price not reported, 
+Click for Details,Sondasys,LA300,Custom, ,Vat Photopolymerization (e.g. SLA),Polymer, ,11.81,11.81,11.81,Price not reported, 
+Click for Details,Sondasys,LA300,Standard, ,Vat Photopolymerization (e.g. SLA),Polymer, ,11.81,11.81,7.87,Price not reported, 
+Click for Details,Sondasys,LA600 PRO,Custom, ,Vat Photopolymerization (e.g. SLA),Polymer, ,23.62,23.62,15.75,Price not reported, 
+Click for Details,Sondasys,LA600 PRO,Standard, ,Vat Photopolymerization (e.g. SLA),Polymer, ,23.62,23.62,11.81,Price not reported, 
+Click for Details,Sondasys,M150, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Aluminum, Cobalt, Nickel, Copper",5.91,5.91,7.87,Price not reported, 
+Click for Details,Sondasys,M150, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Aluminum, Cobalt, Nickel, Copper",5.91,5.91,7.87,Price not reported, 
+Click for Details,Sondasys,M300, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Aluminum, Cobalt, Nickel, Copper",11.81,9.84,13.78,Price not reported, 
+Click for Details,Sondasys,SL01,Exchangeable,60-100,Powder Bed Fusion (e.g. SLS),Polymer,PA,13.78,13.78,23.62,Price not reported, 
+Click for Details,Sondasys,SL01,Standard,60-100,Powder Bed Fusion (e.g. SLS),Polymer,PA,9.84,9.84,11.81,Price not reported, 
+Click for Details,SPEE3D,LightSPEE3D, , ,Directed Energy Deposition,Metal,"Copper, Aluminum",11.81,11.81,11.81,Price not reported, 
+Click for Details,STACKER,STACKER S2, , ,Material Extrusion (e.g. FDM),"Polymer, Composite", ,15.35,12.4,20.67,"Less than $49,999", 
+Click for Details,STACKER,STACKER S4, , ,Material Extrusion (e.g. FDM),"Polymer, Composite", ,14.37,20.08,25.79,"Less than $49,999", 
+Click for Details,STACKER,STACKER S4-XL, , ,Material Extrusion (e.g. FDM),"Polymer, Composite", ,24.02,24.02,24.02,"Less than $49,999", 
+Click for Details,Stratasys,F170, , ,Material Extrusion (e.g. FDM),Polymer,"PLA, ABS, ASA",10,10,10,"Less than $49,999", 
+Click for Details,Stratasys,F270, , ,Material Extrusion (e.g. FDM),Polymer,"PLA, ABS, ASA",12,10,12,"Less than $49,999", 
+Click for Details,Stratasys,F370, , ,Material Extrusion (e.g. FDM),Polymer,"PLA, ABS, PC/ABS, ASA",14,10,14,"Less than $49,999", 
+Click for Details,Stratasys,F900, , ,Material Extrusion (e.g. FDM),"Composite, Polymer","ABS, ABS/PP, ASA, PEI, PC, PPS, PA",36,24,36,"$250,000 - $499,999", 
+Click for Details,Stratasys,Fortus 380mc, , ,Material Extrusion (e.g. FDM),"Composite, Polymer","ABS, ABS/PP, ASA, PEI, PC, PPS",14,12,12,"$100,000 - $249,999", 
+Click for Details,Stratasys,Fortus 380mc Carbon Fiber Edition, , ,Material Extrusion (e.g. FDM),"Composite, Polymer","PA-Carbon, ASA",13.98,12.01,12.01,"$50,000 - $99,999", 
+Click for Details,Stratasys,Fortus 450mc, , ,Material Extrusion (e.g. FDM),"Composite, Polymer","ABS, ABS/PP, ASA, PEI, PC, PPS",16,14,16,"$100,000 - $249,999", 
+Click for Details,Stratasys,J700 Dental, , ,Material Jetting,Polymer, ,19.29,15.35, ,Price not reported, 
+Click for Details,Stratasys,J735,High Mix, ,Material Jetting,Polymer, ,13.78,13.78,7.87,Price not reported, 
+Click for Details,Stratasys,J735,High Quality, ,Material Jetting,Polymer, ,13.78,13.78,7.87,Price not reported, 
+Click for Details,Stratasys,J735,High Speed, ,Material Jetting,Polymer, ,13.78,13.78,7.87,Price not reported, 
+Click for Details,Stratasys,J750,High Mix, ,Material Jetting,Polymer, ,19.3,15.35,7.9,Price not reported, 
+Click for Details,Stratasys,J750,High Quality, ,Material Jetting,Polymer, ,19.3,15.35,7.9,Price not reported, 
+Click for Details,Stratasys,J750,High Speed, ,Material Jetting,Polymer, ,19.3,15.35,7.9,Price not reported, 
+Click for Details,Stratasys,Mojo, , ,Material Extrusion (e.g. FDM),Polymer,ABS,5,5,5,"Less than $49,999", 
+Click for Details,Stratasys,Objet Eden260VS,High quality, ,Material Jetting,Polymer,"Acrylic, PP-like, Rubber-like",10.04,9.92,7.87,"$50,000 - $99,999", 
+Click for Details,Stratasys,Objet Eden260VS,High speed, ,Material Jetting,Polymer,"Acrylic, PP-like, Rubber-like",10.04,9.92,7.87,"$50,000 - $99,999", 
+Click for Details,Stratasys,Objet Eden260VS Dental Advantage, , ,Material Jetting,Polymer,"Acrylic, PP-like, Rubber-like",10.04,9.92,7.87,"$50,000 - $99,999", 
+Click for Details,Stratasys,Objet1000 Plus,Digital material, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",39.3701,31.49608,19.68505,"$500,000 - $999,999", 
+Click for Details,Stratasys,Objet1000 Plus,High quality, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",39.3701,31.49608,19.68505,"$500,000 - $999,999", 
+Click for Details,Stratasys,Objet1000 Plus,High speed, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",39.3701,31.49608,19.68505,"$500,000 - $999,999", 
+Click for Details,Stratasys,Objet24, , ,Material Jetting,Polymer,Acrylic,9.21,7.55,5.85,"Less than $49,999", 
+Click for Details,Stratasys,Objet260 Connex1,Digital material, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",10.039376,9.921265,7.87402,"$100,000 - $249,999", 
+Click for Details,Stratasys,Objet260 Connex1,High quality, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",10.039376,9.921265,7.87402,"$100,000 - $249,999", 
+Click for Details,Stratasys,Objet260 Connex1,High speed, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",10.039376,9.921265,7.87402,"$100,000 - $249,999", 
+Click for Details,Stratasys,Objet260 Connex3,Digital material, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",10.039376,9.921265,7.87402,"$100,000 - $249,999", 
+Click for Details,Stratasys,Objet260 Connex3,High quality, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",10.039376,9.921265,7.87402,"$100,000 - $249,999", 
+Click for Details,Stratasys,Objet260 Connex3,High speed, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",10.039376,9.921265,7.87402,"$100,000 - $249,999", 
+Click for Details,Stratasys,Objet260 Dental 3D Printer,High quality, ,Material Jetting,Polymer,"Acrylic, Rubber-like",10.04,9.92,7.87,"$100,000 - $249,999", 
+Click for Details,Stratasys,Objet260 Dental 3D Printer,High speed, ,Material Jetting,Polymer,"Acrylic, Rubber-like",10.04,9.92,7.87,"$100,000 - $249,999", 
+Click for Details,Stratasys,Objet260 Dental Selection, , ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",10.039376,9.921265,7.87402,"$100,000 - $249,999", 
+Click for Details,Stratasys,Objet30,High speed, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",11.574809,7.559059,5.850397,"Less than $49,999", 
+Click for Details,Stratasys,Objet30 Dental Prime,Draft, ,Material Jetting,Polymer, ,11.81,7.87,3.94,"Less than $49,999", 
+Click for Details,Stratasys,Objet30 Dental Prime,High quality, ,Material Jetting,Polymer, ,11.81,7.87,3.94,"Less than $49,999", 
+Click for Details,Stratasys,Objet30 Dental Prime,High speed, ,Material Jetting,Polymer, ,11.81,7.87,3.94,"Less than $49,999", 
+Click for Details,Stratasys,Objet30 OrthoDesk, , ,Material Jetting,Polymer, ,11.81,7.87,3.94,"Less than $49,999", 
+Click for Details,Stratasys,Objet30 Prime, , ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",11.57,7.55,5.85,"Less than $49,999", 
+Click for Details,Stratasys,Objet30 Pro, , ,Material Jetting,Polymer,Acrylic,11.57,7.55,5.85,"Less than $49,999", 
+Click for Details,Stratasys,Objet350 Connex3,Digital material, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",13.385834,13.385834,7.87402,"$250,000 - $499,999", 
+Click for Details,Stratasys,Objet350 Connex3,High quality, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",13.385834,13.385834,7.87402,"$250,000 - $499,999", 
+Click for Details,Stratasys,Objet350 Connex3,High speed, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",13.385834,13.385834,7.87402,"$250,000 - $499,999", 
+Click for Details,Stratasys,Objet500 Connex1,Digital material, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",19.291349,15.354339,7.87402,"$100,000 - $249,999", 
+Click for Details,Stratasys,Objet500 Connex1,High quality, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",19.291349,15.354339,7.87402,"$100,000 - $249,999", 
+Click for Details,Stratasys,Objet500 Connex1,High speed, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",19.291349,15.354339,7.87402,"$100,000 - $249,999", 
+Click for Details,Stratasys,Objet500 Connex3,Digital material, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",19.3,15.4,7.9,"$250,000 - $499,999", 
+Click for Details,Stratasys,Objet500 Connex3,High quality, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",19.3,15.4,7.9,"$250,000 - $499,999", 
+Click for Details,Stratasys,Objet500 Connex3,High speed, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",19.3,15.4,7.9,"$250,000 - $499,999", 
+Click for Details,Stratasys,Objet500 Dental Selection,High quality, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",19.29,15.35,7.87,"$250,000 - $499,999", 
+Click for Details,Stratasys,Objet500 Dental Selection,High speed, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",19.29,15.35,7.87,"$250,000 - $499,999", 
+Click for Details,Stratasys,uPrint SE,Plus, ,Material Extrusion (e.g. FDM),Polymer,ABS,8,8,6,"Less than $49,999", 
+Click for Details,Structo,DentaForm, , ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, PP-like",7.87,5.9,3.93,"Less than $49,999", 
+Click for Details,Structo,Velox, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,2.95,1.77,2.95,"Less than $49,999", 
+Click for Details,Techgine Laser Technology,TZ-SLM120, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Titanium, Aluminum, Nickel, Steel",4.72,4.72,4.33,Price not reported, 
+Click for Details,Techgine Laser Technology,TZ-SLM120, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Titanium, Aluminum, Nickel, Steel",4.72,4.72,4.33,Price not reported, 
+Click for Details,Techgine Laser Technology,TZ-SLM300A, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Titanium, Aluminum, Nickel, Steel",9.84,9.84,11.81,Price not reported, 
+Click for Details,Techgine Laser Technology,TZ-SLM500A, ,4x500,Powder Bed Fusion (e.g. SLS),Metal,"Titanium, Aluminum, Nickel, Steel",19.69,19.69,39.37,Price not reported, 
+Click for Details,Techgine Laser Technology,TZ-SLM500A, ,4x1000,Powder Bed Fusion (e.g. SLS),Metal,"Titanium, Aluminum, Nickel, Steel",19.69,19.69,39.37,Price not reported, 
+Click for Details,Titan Robotics,Atlas 1.0, , ,Material Extrusion (e.g. FDM),Polymer,"ABS, PLA, PETG, PC, PEI, TPE, PA",30,30,45,"Less than $49,999", 
+Click for Details,Titan Robotics,Atlas 2.0, , ,Material Extrusion (e.g. FDM),Polymer,"ABS, PLA, PETG, PC, PEI, TPE, PA",36,36,48,"Less than $49,999", 
+Click for Details,Titan Robotics,Atlas 2.5, , ,Material Extrusion (e.g. FDM),Polymer,"ABS, PLA, PETG, PC, PEI, TPE, PA",42,42,48,"Less than $49,999", 
+Click for Details,Tongtai Machine & Tool Co.,AMP-160, ,250,Powder Bed Fusion (e.g. SLS),Metal, ,6.3,6.3,6.3,Price not reported, 
+Click for Details,Tongtai Machine & Tool Co.,AMP-250, ,500,Powder Bed Fusion (e.g. SLS),Metal, ,9.84,9.84,9.84,Price not reported, 
+Click for Details,Tongtai Machine & Tool Co.,AMS-1200, , ,Binder Jetting,Sand, ,47.24,21.26,31.5,Price not reported, 
+Click for Details,TPM3D (A Stratasys Company),TPM3D S320, ,60,Powder Bed Fusion (e.g. SLS),Polymer, ,12.6,12.6,23.6,"$100,000 - $249,999", 
+Click for Details,TPM3D (A Stratasys Company),TPM3D S360, ,80,Powder Bed Fusion (e.g. SLS),Polymer, ,14.1,14.1,23.6,"$100,000 - $249,999", 
+Click for Details,TPM3D (A Stratasys Company),TPM3D S480, ,100,Powder Bed Fusion (e.g. SLS),Polymer, ,18.9,18.9,23.6,"$100,000 - $249,999", 
+Click for Details,TPM3D (A Stratasys Company),TPM3D S550, ,100,Powder Bed Fusion (e.g. SLS),Polymer, ,21.7,21.7,23.6,"$250,000 - $499,999", 
+Click for Details,TRUMPF,TruPrint 1000, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Aluminum, Cobalt, Nickel, Titanium, Bronze",3.94,3.94,3.94,Price not reported, 
+Click for Details,TRUMPF,TruPrint 3000, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Aluminum, Cobalt, Nickel, Titanium, Bronze",11.8,11.8,15.75,Price not reported, 
+Click for Details,TRUMPF,TruPrint 5000, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Aluminum, Cobalt, Nickel, Titanium, Bronze",11.81,11.81,15.75,Price not reported, 
+Click for Details,Unirapid,UNIRAPID III, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,5.91,5.91,5.91,"$50,000 - $99,999", 
+Click for Details,Unirapid,UNIRAPID IV, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,1.96,1.96,1.96,Price not reported, 
+Click for Details,Vader Systems,Polaris, , ,Material Jetting,Metal,Aluminum,11.81,11.81,11.81,"$250,000 - $499,999", 
+Click for Details,Velo3D,Sapphire System,Dual Laser,1000,Powder Bed Fusion (e.g. SLS),Metal,"Nickel, Titanium",12.4,12.4,15.75,Price not reported, 
+Click for Details,voxeljet,VX1000,HP, ,Binder Jetting,"Polymer, Sand","PMMA, Silicate",41.73,23.62,19.69,"$500,000 - $999,999", 
+Click for Details,voxeljet,VX1000,Standard, ,Binder Jetting,"Polymer, Sand","PMMA, Silicate",41.73,23.62,19.69,"$500,000 - $999,999", 
+Click for Details,voxeljet,VX200,Standard, ,Binder Jetting,"Polymer, Sand","PMMA, Silicate",11.81,7.87,5.91,"$100,000 - $249,999", 
+Click for Details,voxeljet,VX2000,HP, ,Binder Jetting,"Polymer, Sand","PMMA, Silicate",81.1,41.73,39.37,"$500,000 - $999,999", 
+Click for Details,voxeljet,VX2000,Standard, ,Binder Jetting,"Polymer, Sand","PMMA, Silicate",81.1,41.73,39.37,"$500,000 - $999,999", 
+Click for Details,voxeljet,VX4000,HP, ,Binder Jetting,"Polymer, Sand","PMMA, Silicate",157.48,78.74,39.37,"Greater than $1,000,000", 
+Click for Details,voxeljet,VX500,Standard, ,Binder Jetting,"Polymer, Sand","PMMA, Silicate",19.69,15.75,11.81,"$250,000 - $499,999", 
+Click for Details,W2P Engineering,SolFlex 150, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,1.57,2.36,4.72,"Less than $49,999", 
+Click for Details,W2P Engineering,SolFlex 170, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,2.2,3.5,4.72,"Less than $49,999", 
+Click for Details,W2P Engineering,SolFlex 350, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,2.52,4.72,5.12,"Less than $49,999", 
+Click for Details,W2P Engineering,SolFlex 650, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,5.04,4.72,5.12,"Less than $49,999", 
+Click for Details,Winbo,4 Nozzles 3D Printer, , ,Material Extrusion (e.g. FDM),Polymer,PLA,11.81,8.46,11.81,"Less than $49,999", 
+Click for Details,Winbo,8 Nozzles 3D Printer, , ,Material Extrusion (e.g. FDM),Polymer,PLA,12.6,8.27,14.96,"Less than $49,999", 
+Click for Details,Winbo,Dragon (XL), , ,Material Extrusion (e.g. FDM),Polymer,"PLA, ABS, PETG",36,24,48,"Less than $49,999", 
+Click for Details,Winbo,Tiger (XL), , ,Material Extrusion (e.g. FDM),Polymer,"PLA, ABS, PETG",36,24,24,"Less than $49,999", 
+Click for Details,Wuhan Binhu,HRPL-II, ,0.5,Vat Photopolymerization (e.g. SLA),Polymer, ,13.78,13.78,13.78,"$100,000 - $249,999", 
+Click for Details,Wuhan Binhu,HRPL-III, ,0.5,Vat Photopolymerization (e.g. SLA),Polymer, ,23.62,23.62,19.69,"$100,000 - $249,999", 
+Click for Details,Wuhan Binhu,HRPM-II, ,400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Nickel",9.84,9.84,9.84,"$250,000 - $499,999", 
+Click for Details,Wuhan Binhu,HRPM-II, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Nickel",9.84,9.84,9.84,"$250,000 - $499,999", 
+Click for Details,Wuhan Binhu,HRPS-II, , ,Powder Bed Fusion (e.g. SLS),"Ceramic, Polymer, Sand","PS, PP, PA, Coated Sand, Ceramic",12.6,12.6,17.72,"$50,000 - $99,999", 
+Click for Details,Wuhan Binhu,HRPS-IV, , ,Powder Bed Fusion (e.g. SLS),"Ceramic, Polymer, Sand","PS, PP, PA, Coated Sand, Ceramic",19.69,19.69,15.75,"$100,000 - $249,999", 
+Click for Details,Wuhan Binhu,HRPS-V, , ,Powder Bed Fusion (e.g. SLS),"Polymer, Sand","PS, Coated Sand",39.37,39.37,23.62,"$250,000 - $499,999", 
+Click for Details,Wuhan Binhu,HRPS-VI, , ,Powder Bed Fusion (e.g. SLS),"Polymer, Sand","PS, Coated Sand",47.24,47.24,23.62,"$500,000 - $999,999", 
+Click for Details,Wuhan Binhu,HRPS-VII, , ,Powder Bed Fusion (e.g. SLS),"Polymer, Sand","PS, Coated Sand",55.12,27.56,19.69,"$500,000 - $999,999", 
+Click for Details,Wuhan Binhu,HRPS-VIII, , ,Powder Bed Fusion (e.g. SLS),"Polymer, Sand","PS, Coated Sand",55.12,55.12,19.69,"Greater than $1,000,000", 
+Click for Details,Wuhan Huake 3D,HK C250,General type,55,Powder Bed Fusion (e.g. SLS),"Polymer, Composite","Alumina, Zirconia, Silicon Carbide",9.8,9.8,9.8,Price not reported, 
+Click for Details,Wuhan Huake 3D,HK C250,High precision type,100,Powder Bed Fusion (e.g. SLS),"Polymer, Composite","Alumina, Zirconia, Silicon Carbide",9.8,9.8,9.8,Price not reported, 
+Click for Details,Wuhan Huake 3D,HK L400, ,0.5,Vat Photopolymerization (e.g. SLA),Polymer, ,15.75,15.75,17.72,"$50,000 - $99,999", 
+Click for Details,Wuhan Huake 3D,HK M125, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Cobalt, Titanium, Nickel",4.92,4.92,5.91,Price not reported, 
+Click for Details,Wuhan Huake 3D,HK P420, ,55,Powder Bed Fusion (e.g. SLS),Polymer,"PA, PP",16.54,16.54,19.69,Price not reported, 
+Click for Details,Wuhan Huake 3D,HK S1400,Dual laser,100,Powder Bed Fusion (e.g. SLS),"Polymer, Sand","Silicate, PS",55.11814,27.55907,19.68505,"$250,000 - $499,999", 
+Click for Details,Wuhan Huake 3D,HK S500, ,55,Powder Bed Fusion (e.g. SLS),"Polymer, Sand","Silicate, PS",19.68505,19.68505,15.74804,"$100,000 - $249,999", 
+Click for Details,Wuhan Huake 3D,HK S800, ,100,Powder Bed Fusion (e.g. SLS),"Polymer, Sand","Silicate, PS",31.5,31.5,19.69,Price not reported, 
+Click for Details,Xact Metal,XM200C, ,100,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Nickel, Cobalt, Bronze",5,5,5,"$50,000 - $99,999", 
+Click for Details,Xact Metal,XM200S, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Bronze, Steel, Nickel, Cobalt, Titanium",5,5,5,"$100,000 - $249,999", 
+Click for Details,Xery,Victory, ,55,Powder Bed Fusion (e.g. SLS),Polymer, ,13.779535,13.779535,25.590565,"$250,000 - $499,999", 
+Click for Details,Xery,Vision, , ,Material Extrusion (e.g. FDM),Polymer,"ABS, PLA, PVA",11.81103,11.81103,11.81103,"Less than $49,999", 
+Click for Details,Xi'an Bright Laser Technologies,BLT-A100, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Cobalt",3.94,3.94,3.94,Price not reported, 
+Click for Details,Xi'an Bright Laser Technologies,BLT-A300, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Copper, Cobalt, Titanium, Steel",9.84,9.84,11.81,Price not reported, 
+Click for Details,Xi'an Bright Laser Technologies,BLT-C1000 (LSF-Series), ,2000,Directed Energy Deposition,Metal,"Titanium, Steel, Nickel",59,39.4,39.4,Price not reported, 
+Click for Details,Xi'an Bright Laser Technologies,BLT-C1000 (LSF-Series), ,4000,Directed Energy Deposition,Metal,"Titanium, Steel, Nickel",59,39.4,39.4,Price not reported, 
+Click for Details,Xi'an Bright Laser Technologies,BLT-C600 (LSF-Series), ,2000,Directed Energy Deposition,Metal,"Titanium, Steel, Nickel",23.6,23.6,39.4,Price not reported, 
+Click for Details,Xi'an Bright Laser Technologies,BLT-C600 (LSF-Series), ,4000,Directed Energy Deposition,Metal,"Titanium, Steel, Nickel",23.6,23.6,39.4,Price not reported, 
+Click for Details,Xi'an Bright Laser Technologies,BLT-S210, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Copper, Cobalt, Titanium, Steel",4.13,4.13,7.87,Price not reported, 
+Click for Details,Xi'an Bright Laser Technologies,BLT-S210, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Copper, Cobalt, Titanium, Steel",4.13,4.13,7.87,Price not reported, 
+Click for Details,Xi'an Bright Laser Technologies,BLT-S310, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Copper, Cobalt, Titanium, Steel",9.84,9.84,15.75,Price not reported, 
+Click for Details,Xi'an Bright Laser Technologies,BLT-S320, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Copper, Cobalt, Titanium, Steel",9.84,9.84,15.75,Price not reported, 
+Click for Details,Xi'an Bright Laser Technologies,BLT-S400, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Copper, Cobalt, Titanium, Steel",9.84,15.75,15.75,Price not reported, 
+Click for Details,XJet,Carmel 1400, , ,Material Jetting,"Ceramic, Metal", ,19.69,11.02,7.87,Price not reported, 
+Click for Details,XJet,Carmel 700, , ,Material Jetting,"Ceramic, Metal", ,19.69,5.51,7.87,Price not reported, 
+Click for Details,Zhuhai CTC Electronic,Riverbase 500, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,19.7,15.7,11.8,"$50,000 - $99,999", 
+Click for Details,Zhuhai CTC Electronic,Walnut 26, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Nickel, Cobalt, Aluminum",10.24,10.24,10.24,Price not reported, 
+Click for Details,ZRapid Tech,FMS400, ,60,Powder Bed Fusion (e.g. SLS),"Ceramic, Polymer, Metal", ,15.75,15.75,15.75,Price not reported, 
+Click for Details,ZRapid Tech,SLA1100, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,43.31,43.31,23.62,Price not reported, 
+Click for Details,ZRapid Tech,SLA200, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,7.8,6.3,6.3,Price not reported, 
+Click for Details,ZRapid Tech,SLA300, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,11.8,11.8,11.8,Price not reported, 
+Click for Details,ZRapid Tech,SLA450, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,17.7,17.7,13.8,Price not reported, 
+Click for Details,ZRapid Tech,SLA500, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,19.7,15.7,15.7,Price not reported, 
+Click for Details,ZRapid Tech,SLA550, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,19.69,19.69,11.81,Price not reported, 
+Click for Details,ZRapid Tech,SLA660, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,23.6,23.6,15.7,Price not reported, 
+Click for Details,ZRapid Tech,SLA800, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,23.62,31.5,15.75,Price not reported, 
+Click for Details,ZRapid Tech,SLM150, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Nickel, Titanium, Aluminum",6.3,7.8,7.8,Price not reported, 
+Click for Details,ZRapid Tech,SLM280, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Nickel, Aluminum, Titanium",11.02,11.02,13.78,"$100,000 - $249,999", 
+Click for Details,ZRapid Tech,SLM300, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Nickel, Titanium, Aluminum",11.8,9.8,9.8,Price not reported, 
+Click for Details,ZRapid Tech,SLS300, ,60,Powder Bed Fusion (e.g. SLS),Polymer,PA,11.81,11.81,11.81,Price not reported, 
+Click for Details,3D Platform,3DP Workbench, , ,Material Extrusion (e.g. FDM),Polymer,"PLA, ABS, PC, PA, PVA, HIPS",39.4,39.4,19.7,"Less than $49,999",Discontinued
+Click for Details,3D Platform,3DP1000, , ,Material Extrusion (e.g. FDM),Polymer,"PLA, ABS, PC, PA, PVA, HIPS",39.4,39.4,19.7,"Less than $49,999",Discontinued
+Click for Details,3D Systems,iPro 8000,RDM 650M, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, ABS-like/PP-like, PC-like, PP-like",25.6,13.7,11.8,"$500,000 - $999,999",Discontinued
+Click for Details,3D Systems,iPro 8000,RDM 750F, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, ABS-like/PP-like, PC-like, PP-like",25.6,29.5,21.65,"$500,000 - $999,999",Discontinued
+Click for Details,3D Systems,iPro 8000,RDM 750H, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, ABS-like/PP-like, PC-like, PP-like",25.6,29.5,10.8,"$500,000 - $999,999",Discontinued
+Click for Details,3D Systems,iPro 8000,RDM 750SH, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, ABS-like/PP-like, PC-like, PP-like",25.6,29.5,1.97,"$500,000 - $999,999",Discontinued
+Click for Details,3D Systems,iPro 8000 MP,RDM 650M, ,Vat Photopolymerization (e.g. SLA),Polymer,PP-like,25.6,13.7,11.8,"$250,000 - $499,999",Discontinued
+Click for Details,3D Systems,iPro 8000 MP,RDM 750F, ,Vat Photopolymerization (e.g. SLA),Polymer,PP-like,25.6,29.5,21.65,"$250,000 - $499,999",Discontinued
+Click for Details,3D Systems,iPro 8000 MP,RDM 750H, ,Vat Photopolymerization (e.g. SLA),Polymer,PP-like,25.6,29.5,10.8,"$250,000 - $499,999",Discontinued
+Click for Details,3D Systems,iPro 8000 MP,RDM 750SH, ,Vat Photopolymerization (e.g. SLA),Polymer,PP-like,25.6,29.5,1.97,"$250,000 - $499,999",Discontinued
+Click for Details,3D Systems,Phenix PXL, ,500,Powder Bed Fusion (e.g. SLS),"Ceramic, Metal", ,9.84,9.84,11.81,"$250,000 - $499,999",Discontinued
+Click for Details,3D Systems,Phenix PXM, ,300,Powder Bed Fusion (e.g. SLS),"Ceramic, Metal", ,5.51,5.51,3.94,"$250,000 - $499,999",Discontinued
+Click for Details,3D Systems,Phenix PXS, ,50,Powder Bed Fusion (e.g. SLS),"Ceramic, Metal", ,3.94,3.94,3.15,"$100,000 - $249,999",Discontinued
+Click for Details,3D Systems,ProJet 1200,Standard, ,Vat Photopolymerization (e.g. SLA),Polymer, ,1.69,1.06,7.086,"Less than $49,999",Discontinued
+Click for Details,3D Systems,ProJet 160,Monochrome, ,Binder Jetting,Composite,Gypsum,9.3,7.3,5,"Less than $49,999",Discontinued
+Click for Details,3D Systems,ProJet 260C,Basic CMY, ,Binder Jetting,Composite,Gypsum,9.3,7.3,5,"Less than $49,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 CP,HD, ,Material Jetting,Wax,Wax-like,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 CP,HDHiQ, ,Material Jetting,Wax,Wax-like,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 CPX,HD, ,Material Jetting,Wax,Wax-like,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 CPX,HDHiQ, ,Material Jetting,Wax,Wax-like,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 CPX,XHD, ,Material Jetting,Wax,Wax-like,5,6,7,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 CPXMax,HD, ,Material Jetting,Wax,Wax-like,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 CPXMax,HDHiQ, ,Material Jetting,Wax,Wax-like,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 CPXMax,UHD, ,Material Jetting,Wax,Wax-like,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 CPXMax,XHD, ,Material Jetting,Wax,Wax-like,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 CPXPlus,HD, ,Material Jetting,Wax,Wax-like,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 CPXPlus,HDHiQ, ,Material Jetting,Wax,Wax-like,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 CPXPlus,UHD, ,Material Jetting,Wax,Wax-like,8,7,6,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 CPXPlus,XHD, ,Material Jetting,Wax,Wax-like,8,7,6,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 DP,HD, ,Material Jetting,Polymer,Acrylic,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 DP,UHD, ,Material Jetting,Polymer,Acrylic,8,7,6,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 DPPro,HDP, ,Material Jetting,Polymer,Acrylic,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 DPPro,HDX, ,Material Jetting,Polymer,Acrylic,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 DPPro,UHD, ,Material Jetting,Polymer,Acrylic,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 HD,HD, ,Material Jetting,Polymer,ABS-like,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 HD,UHD, ,Material Jetting,Polymer,ABS-like,5,6,7,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 HDMax,HD, ,Material Jetting,Polymer,ABS-like,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 HDMax,HS, ,Material Jetting,Polymer,ABS-like,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 HDMax,UHD, ,Material Jetting,Polymer,ABS-like,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 HDMax,XHD, ,Material Jetting,Polymer,ABS-like,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 HDPlus,HD, ,Material Jetting,Polymer,ABS-like,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 HDPlus,UHD, ,Material Jetting,Polymer,ABS-like,8,7,6,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 HDPlus,XHD, ,Material Jetting,Polymer,ABS-like,8,7,6,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 MP,HDP, ,Material Jetting,Polymer,Acrylic,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 MP,HDX, ,Material Jetting,Polymer,Acrylic,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 3510 SD,HD, ,Material Jetting,Polymer,ABS-like,11.75,7.3,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 4500,Standard, ,Binder Jetting,Polymer, ,8,10,8,"$50,000 - $99,999",Discontinued
+Click for Details,3D Systems,ProJet 5000,HD, ,Material Jetting,Polymer,"ABS-like/PP-like, PP-like",21,15,11.8,"$100,000 - $249,999",Discontinued
+Click for Details,3D Systems,ProJet 5000,HS, ,Material Jetting,Polymer,"ABS-like/PP-like, PP-like",21,15,11.8,"$100,000 - $249,999",Discontinued
+Click for Details,3D Systems,ProJet 5000,UHD, ,Material Jetting,Polymer,"ABS-like/PP-like, PP-like",21,15,11.8,"$100,000 - $249,999",Discontinued
+Click for Details,3D Systems,Projet 5500X,HD, ,Material Jetting,Polymer,"ABS-like, PC-like, Rubber-like",21,15,11.8,"$100,000 - $249,999",Discontinued
+Click for Details,3D Systems,Projet 5500X,UHD, ,Material Jetting,Polymer,"ABS-like, PC-like, Rubber-like",21,15,11.8,"$100,000 - $249,999",Discontinued
+Click for Details,3D Systems,ProJet 6000 MP,HD, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, ABS-like/PP-like, PC-like, PP-like",10,10,10,"$100,000 - $249,999",Discontinued
+Click for Details,3D Systems,ProJet 6000 MP,UHD, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, ABS-like/PP-like, PC-like, PP-like",10,10,10,"$100,000 - $249,999",Discontinued
+Click for Details,3D Systems,ProJet 6000 MP,XHD, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, ABS-like/PP-like, PC-like, PP-like",10,10,10,"$100,000 - $249,999",Discontinued
+Click for Details,3D Systems,ProJet 6000 SD,HD, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, ABS-like/PP-like, PC-like, PP-like",10,10,10,"$100,000 - $249,999",Discontinued
+Click for Details,3D Systems,ProJet 6000 SD,UHD, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, ABS-like/PP-like, PC-like, PP-like",10,10,10,"$100,000 - $249,999",Discontinued
+Click for Details,3D Systems,ProJet 7000 MP,HD, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, ABS-like/PP-like, PC-like, PP-like",15,15,10,"$250,000 - $499,999",Discontinued
+Click for Details,3D Systems,ProJet 7000 MP,UHD, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, ABS-like/PP-like, PC-like, PP-like",15,15,10,"$250,000 - $499,999",Discontinued
+Click for Details,3D Systems,ProJet 7000 MP,XHD, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, ABS-like/PP-like, PC-like, PP-like",15,15,10,"$250,000 - $499,999",Discontinued
+Click for Details,3D Systems,ProJet 7000 SD,HD, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, ABS-like/PP-like, PC-like, PP-like",15,15,10,"$250,000 - $499,999",Discontinued
+Click for Details,3D Systems,ProJet 7000 SD,UHD, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, ABS-like/PP-like, PC-like, PP-like",15,15,10,"$250,000 - $499,999",Discontinued
+Click for Details,3D Systems,ProX 400, ,1000,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Cobalt, Aluminum, Titanium",19.69,19.69,19.69,Price not reported,Discontinued
+Click for Details,3D Systems,ProX 400, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Cobalt, Aluminum, Titanium",19.69,19.69,19.69,Price not reported,Discontinued
+Click for Details,3D Systems,ProX 500,Standard,100,Powder Bed Fusion (e.g. SLS),"Composite, Polymer",PA,15,13,18,"$250,000 - $499,999",Discontinued
+Click for Details,3D Systems,ProX 500 Plus, ,100,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Metal",15,13,18,"$250,000 - $499,999",Discontinued
+Click for Details,3D Systems,sPro 140,Base,70,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","ABS/PP, PA, PA-Glass, Rubber",22,22,18,"$500,000 - $999,999",Discontinued
+Click for Details,3D Systems,sPro 140,HS,200,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","ABS/PP, PA, PA-Glass, Rubber",22,22,18,"$500,000 - $999,999",Discontinued
+Click for Details,3D Systems,sPro 230,Base,70,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","ABS/PP, PA, PA-Glass, Rubber",22,22,30,"$500,000 - $999,999",Discontinued
+Click for Details,3D Systems,sPro 230,HS,200,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","ABS/PP, PA, PA-Glass, Rubber",22,22,30,"$500,000 - $999,999",Discontinued
+Click for Details,3D Systems,sPro 60,SD,30,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","ABS/PP, PA, PA-Glass, Rubber",15,13,18,"$250,000 - $499,999",Discontinued
+Click for Details,3DCeram,Ceramaker, , ,Vat Photopolymerization (e.g. SLA),Ceramic, ,11.8,11.8,4.3,"$250,000 - $499,999",Discontinued
+Click for Details,3DGence,3DGence Industry, , ,Material Extrusion (e.g. FDM),Polymer,"ABS, PLA, HIPS, PA, PET, PVA, TPE, TPU",10.2,13.3,13.3,"Less than $49,999",Discontinued
+Click for Details,3DGence,3DGence Medical, , ,Material Extrusion (e.g. FDM),Polymer,PLA,9.25,10,7.6,"Less than $49,999",Discontinued
+Click for Details,3Geometry,DSM 1200, , ,Powder Bed Fusion (e.g. SLS),Sand,Silicate,47.2,47.2,16.5,Price not reported,Discontinued
+Click for Details,3Geometry,DSM 1200 HI, , ,Powder Bed Fusion (e.g. SLS),Sand,Silicate,47.2,47.2,16.5,Price not reported,Discontinued
+Click for Details,3Geometry,DSM 350, , ,Powder Bed Fusion (e.g. SLS),Sand,Silicate,13.8,13.8,13.8,Price not reported,Discontinued
+Click for Details,3Geometry,DSM 350 HI, , ,Powder Bed Fusion (e.g. SLS),Sand,Silicate,13.8,13.8,13.8,Price not reported,Discontinued
+Click for Details,3Geometry,DSM 500, , ,Powder Bed Fusion (e.g. SLS),Sand,Silicate,19.7,19.7,16.5,Price not reported,Discontinued
+Click for Details,3Geometry,DSM 500 HI, , ,Powder Bed Fusion (e.g. SLS),Sand,Silicate,19.7,19.7,16.5,Price not reported,Discontinued
+Click for Details,3Geometry,DSM 800, , ,Powder Bed Fusion (e.g. SLS),Sand,Silicate,31.5,31.5,16.5,Price not reported,Discontinued
+Click for Details,3Geometry,DSM 800 HI, , ,Powder Bed Fusion (e.g. SLS),Sand,Silicate,31.5,31.5,16.5,Price not reported,Discontinued
+Click for Details,addwii,X1 Full Color 3D Printer, , ,Binder Jetting,Composite,Gypsum,7.9,6.3,5.9,"Less than $49,999",Discontinued
+Click for Details,AON3D,AON-M, , ,Material Extrusion (e.g. FDM),Polymer,"PEEK, PEI, ABS, ASA, PLA, HIPS, PA, PET, PC, PC-ABS",17.87,17.87,25.2,"Less than $49,999",Discontinued
+Click for Details,Apium,HPP 155, , ,Material Extrusion (e.g. FDM),Polymer,PEEK,5.5,5.3,5.8,"Less than $49,999",Discontinued
+Click for Details,Arcam (GE Additive),Arcam A2,Build tank volume 1, ,Powder Bed Fusion (e.g. SLS),Metal,"Titanium, Cobalt",7.87,7.87,9.84,"$500,000 - $999,999",Discontinued
+Click for Details,Arcam (GE Additive),Arcam A2,Build tank volume 2, ,Powder Bed Fusion (e.g. SLS),Metal,"Titanium, Cobalt",11.81,11.81,7.87,"$500,000 - $999,999",Discontinued
+Click for Details,Arcam (GE Additive),Arcam A2XX, , ,Powder Bed Fusion (e.g. SLS),Metal,"Titanium, Cobalt",13.779535,13.779535,14.960638,"$500,000 - $999,999",Discontinued
+Click for Details,Arcam (GE Additive),Arcam Q10, , ,Powder Bed Fusion (e.g. SLS),Metal,"Titanium, Cobalt",7.87,7.87,7.09,"$500,000 - $999,999",Discontinued
+Click for Details,Arcam (GE Additive),Arcam Q20, , ,Powder Bed Fusion (e.g. SLS),Metal,"Titanium, Cobalt",13.78,13.78,14.96,"$500,000 - $999,999",Discontinued
+Click for Details,Asiga,Freeform Pico, , ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",1.18,1.57,2.99,"Less than $49,999",Discontinued
+Click for Details,Asiga,Freeform Pico,Plus 27, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",1.38,0.86,2.99,"Less than $49,999",Discontinued
+Click for Details,Asiga,Freeform Pico,Plus 33, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",1.67,1.04,2.99,"Less than $49,999",Discontinued
+Click for Details,Asiga,Freeform Pico,Plus 39, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like/PP-like, Wax-like",1.97,1.23,2.99,"Less than $49,999",Discontinued
+Click for Details,Aspect,RaFaEl 150, ,30,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Carbon, Rubber-like, PS",4.921263,4.921263,6.692917,"$100,000 - $249,999",Discontinued
+Click for Details,Aspect,RaFaEl 300, ,60,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Carbon, Rubber-like, PS",11.023628,11.023628,14.566937,"$250,000 - $499,999",Discontinued
+Click for Details,Aspect,RaFaEl 550, ,100,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Carbon, Rubber-like, PS",18.897648,18.897648,18.897648,"$500,000 - $999,999",Discontinued
+Click for Details,Aurora Labs,S-Titanium, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Nickel, Cobalt, Iron",5.9,5.9,19.685,"Less than $49,999",Discontinued
+Click for Details,be3D,DeeRed, , ,Material Extrusion (e.g. FDM),Polymer,"PLA, ABS, PVA",15.74804,15.74804,30.314977,"Less than $49,999",Discontinued
+Click for Details,BeAM,CLAD Unit, , ,Directed Energy Deposition,Metal,"Titanium, Nickel",39.4,27.6,27.6,Price not reported,Discontinued
+Click for Details,BeAM,MAGIC, , ,Directed Energy Deposition,Metal,"Titanium, Nickel",59.1,31.5,31.5,"Greater than $1,000,000",Discontinued
+Click for Details,BeAM,Mobile CLAD, , ,Directed Energy Deposition,Metal,"Titanium, Nickel",15.7,9.8,7.9,"$250,000 - $499,999",Discontinued
+Click for Details,Beijing Longyuan,AFS5100, ,55,Powder Bed Fusion (e.g. SLS),"Polymer, Sand","Silicate, PS",22,22,19.7,"$100,000 - $249,999",Discontinued
+Click for Details,Beijing Longyuan,AFS5300, ,100,Powder Bed Fusion (e.g. SLS),"Polymer, Sand","Silicate, PS",27.6,27.6,19.7,"$100,000 - $249,999",Discontinued
+Click for Details,Beijing Longyuan,AFS7000, ,100,Powder Bed Fusion (e.g. SLS),"Polymer, Sand","Silicate, PS",27.6,27.6,19.7,"$100,000 - $249,999",Discontinued
+Click for Details,Beijing Longyuan,AFS-M180, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Nickel",7.08,7.08,7.87,"$250,000 - $499,999",Discontinued
+Click for Details,Beijing Longyuan,SLM-250, ,400,Powder Bed Fusion (e.g. SLS),Metal, ,9.8,9.8,9.8,"$250,000 - $499,999",Discontinued
+Click for Details,Beijing Tiertime Technology,Inspire A370, , ,Material Extrusion (e.g. FDM),Polymer,ABS,12.6,12.99,14.57,"$50,000 - $99,999",Discontinued
+Click for Details,Beijing Tiertime Technology,Inspire A450, , ,Material Extrusion (e.g. FDM),Polymer,ABS,13.78,14.96,17.72,"$50,000 - $99,999",Discontinued
+Click for Details,Beijing Tiertime Technology,Inspire D255, , ,Material Extrusion (e.g. FDM),Polymer,ABS,10.04,10.04,12.2,"Less than $49,999",Discontinued
+Click for Details,Beijing Tiertime Technology,Inspire D290, , ,Material Extrusion (e.g. FDM),Polymer,ABS,10.04,11.42,12.6,"Less than $49,999",Discontinued
+Click for Details,Beijing Tiertime Technology,Inspire S220, , ,Material Extrusion (e.g. FDM),Polymer,ABS,5.91,7.87,7.87,"Less than $49,999",Discontinued
+Click for Details,Beijing Tiertime Technology,Inspire S250, , ,Material Extrusion (e.g. FDM),Polymer,ABS,5.91,7.87,9.84,"Less than $49,999",Discontinued
+Click for Details,BigRep,BigRep ONE.2, , ,Material Extrusion (e.g. FDM),Polymer,"PLA, CoPolymere, Laywood, Laybrick",43.31,42.01,43.19,"Less than $49,999",Discontinued
+Click for Details,BigRep,BigRep Tech, , ,Material Extrusion (e.g. FDM),Polymer,PC,15.7,15.7,23.6,Price not reported,Discontinued
+Click for Details,Blueprinter,Blueprinter M3, , ,Powder Bed Fusion (e.g. SLS),Polymer, ,6.181106,7.87402,5.905515,"Less than $49,999",Discontinued
+Click for Details,Carima,CM-128,Pixel Size: 100Âµm, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, Acrylic",5.03,3.14,7.87,"Less than $49,999",Discontinued
+Click for Details,Carima,CM-64,Pixel Size: 50Âµm, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, Acrylic",2.51,1.41,11.02,"Less than $49,999",Discontinued
+Click for Details,Carima,DP 110, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,4.330711,3.228348,7.480319,"Less than $49,999",Discontinued
+Click for Details,Carima,DP 845, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,3.149608,1.771655,7.87402,"Less than $49,999",Discontinued
+Click for Details,Carima,IM-130,Pixel Size: 67Âµm, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, Acrylic",5.11,2.87,5.9,"Less than $49,999",Discontinued
+Click for Details,Carima,IM-78,Pixel Size: 40Âµm, ,Vat Photopolymerization (e.g. SLA),Polymer,"ABS-like, Acrylic",3.09,1.73,5.9,"Less than $49,999",Discontinued
+Click for Details,Carima,Master EV, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,7.87402,4.409451,7.87402,"Less than $49,999",Discontinued
+Click for Details,Cincinnati Incorporated,BAAM 100 ALPHA - Size 1, , ,Material Extrusion (e.g. FDM),"Polymer, Composite","ABS-Carbon, ABS-Glass, PC-Carbon, PC-Glass, PA-Carbon, PPSU-Carbon, PPS-Carbon, PEI-Carbon, PPE-Carbon, PPE-Glass, PEEK-Carbon,",157.5,78.75,34,"$500,000 - $999,999",Discontinued
+Click for Details,Cincinnati Incorporated,BAAM 100 ALPHA - Size 2, , ,Material Extrusion (e.g. FDM),"Polymer, Composite","ABS-Carbon, ABS-Glass, PC-Carbon, PC-Glass, PA-Carbon, PPSU-Carbon, PPS-Carbon, PEI-Carbon, PPE-Carbon, PPE-Glass, PEEK-Carbon,",240,93,72,"Greater than $1,000,000",Discontinued
+Click for Details,CMET,EQ-1, , ,Vat Photopolymerization (e.g. SLA),Polymer,"Epoxy, Silicone-like",24,24,19.7,"$250,000 - $499,999",Discontinued
+Click for Details,Concept Laser (GE Additive),M3 linear, ,400,Powder Bed Fusion (e.g. SLS),Metal,"Cobalt, Nickel, Steel",11.81,13.78,11.81,"$500,000 - $999,999",Discontinued
+Click for Details,Concept Laser (GE Additive),M3 linear, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Cobalt, Nickel, Steel",11.81,13.78,11.81,"$500,000 - $999,999",Discontinued
+Click for Details,Concept Laser (GE Additive),X line 1000R, ,1000,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Titanium, Nickel",24.8,15.75,19.69,"Greater than $1,000,000",Discontinued
+Click for Details,D-MEC,SCS-8100, , ,Vat Photopolymerization (e.g. SLA),Polymer,Epoxy,24,24,19.7,Price not reported,Discontinued
+Click for Details,D-MEC,SCS-8100,D, ,Vat Photopolymerization (e.g. SLA),Polymer,Epoxy,24,24,19.7,Price not reported,Discontinued
+Click for Details,DPP,XL DPE 3D Printer, , ,Material Extrusion (e.g. FDM),Polymer,"PEI, PLA, ABS, PA, PVA, HIPS, TPU",47,47,20,"Less than $49,999",Discontinued
+Click for Details,DWS Systems,DigitalWax 008J, , ,Vat Photopolymerization (e.g. SLA),"Polymer, Wax",Wax-like,2.56,2.56,3.54,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory 3 DDP,"ERM, Lens f = 2.36"" (60mm)", ,Vat Photopolymerization (e.g. SLA),"Ceramic, Composite, Polymer","ABS-like, Gypsum-like",3.31,2.48,9.06,"$50,000 - $99,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory 3 DDP,"ERM, Lens f = 2.36"" (60mm), Increased Productivity", ,Vat Photopolymerization (e.g. SLA),"Ceramic, Composite, Polymer","ABS-like, Gypsum-like",3.59,2.66,9.06,"$50,000 - $99,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory 3 Mini Multi Lens with ERM,"Lens f=2.36"" (60mm)", ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer, Wax","ABS-like, Wax-like",3.59,2.66,9.06,"$50,000 - $99,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory 3 Mini Multi Lens with ERM,"Lens f=2.95"" (75mm)", ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer, Wax","ABS-like, Wax-like",2.48,1.86,9.06,"$50,000 - $99,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory 3 Mini Multi Lens with ERM,"Lens f=3.35"" (85mm)", ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer, Wax","ABS-like, Wax-like",1.73,1.3,9.06,"$50,000 - $99,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory 4 DDP4,ERM, ,Vat Photopolymerization (e.g. SLA),"Ceramic, Composite, Polymer",Gypsum-like,4.5,2.8,9.06,"$50,000 - $99,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory 4 DDP4 M,ERM, ,Vat Photopolymerization (e.g. SLA),"Ceramic, Polymer",Gypsum-like,6.3,3.9,9.06,"$50,000 - $99,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory 4 DDP4 XL,ERM, ,Vat Photopolymerization (e.g. SLA),"Ceramic, Polymer",Gypsum-like,7.6,4.7,9.06,"$50,000 - $99,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory 4 DSP, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,6.3,3.9,9.06,"$50,000 - $99,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory 4 DSP,ERM, ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,6.3,3.9,9.06,"$50,000 - $99,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory 4 DSP XL, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,7.6,4.7,9.06,"$100,000 - $249,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory 4 DSP XL,ERM, ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,7.6,4.7,9.06,"$100,000 - $249,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory 4 Standard, , ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer, Wax","ABS-like, PP-like, Wax-like",6.3,3.9,9.06,"$50,000 - $99,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory 4 Standard,ERM, ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer, Wax","ABS-like, PP-like, Wax-like",6.3,3.9,9.06,"$50,000 - $99,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory 4 Standard XL, , ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer, Wax","ABS-like, Wax-like",7.6,4.7,9.06,"$50,000 - $99,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory 4 Standard XL,ERM, ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer, Wax","ABS-like, Wax-like",7.6,4.7,9.06,"$50,000 - $99,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory Apollo, , ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer, Wax",Wax-like,3.94,2.95,3.94,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory Apollo PLUS, , ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer, Wax",Wax-like,3.94,2.94,3.15,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory Aureus, , ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer, Wax",Wax-like,2.36,1.77,3.94,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory DDDP, , ,Vat Photopolymerization (e.g. SLA),"Ceramic, Polymer",Gypsum-like,3.94,2.95,3.94,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory DDDP PLUS, , ,Vat Photopolymerization (e.g. SLA),"Ceramic, Polymer",Gypsum-like,3.94,2.95,3.15,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory DDSP, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,3.94,2.94,3.94,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory DDSP PLUS, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,2.36,1.77,3.15,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory Desktop XL, , ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer",ABS-like,3.94,2.94,3.94,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory Desktop XL PLUS, , ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer",ABS-like,3.94,2.94,3.15,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory Micro Advantage, , ,Vat Photopolymerization (e.g. SLA),"Polymer, Wax","ABS-like, Wax-like",2.36,1.77,3.94,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory Micro DDP, , ,Vat Photopolymerization (e.g. SLA),"Composite, Polymer", ,1.57,1.18,3.94,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory Micro DGP, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,3.94,2.94,3.94,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory Micro DSP L, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,2.36,1.77,3.94,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory Micro DSP M, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,1.97,1.48,3.94,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory Micro DSP S, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,1.57,1.18,3.94,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory Micro EDU, , ,Vat Photopolymerization (e.g. SLA),"Ceramic, Polymer, Wax","ABS-like, Gypsum-like, PP-like, Wax-like",3.94,2.94,3.94,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory Micro HiRes, , ,Vat Photopolymerization (e.g. SLA),"Polymer, Wax","ABS-like, Wax-like",1.57,1.18,3.94,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory Micro Ortho, , ,Vat Photopolymerization (e.g. SLA),"Ceramic, Polymer","ABS-like, Gypsum-like",3.94,2.94,3.94,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory Micro XL, , ,Vat Photopolymerization (e.g. SLA),"Ceramic, Polymer","ABS-like, Gypsum-like, PP-like",3.94,2.94,3.94,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory Mini DDSP, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,2.36,1.77,3.94,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory Mini DDSP PLUS, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,2.36,1.77,3.15,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory PixCera, , ,Vat Photopolymerization (e.g. SLA),"Ceramic, Composite, Polymer",Gypsum-like,2.36,1.77,3.94,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory PixCera PLUS, , ,Vat Photopolymerization (e.g. SLA),"Ceramic, Composite, Polymer",Gypsum-like,2.36,1.77,3.15,"Less than $49,999",Discontinued
+Click for Details,EnvisionTEC,Perfactory WaxEra, , ,Vat Photopolymerization (e.g. SLA),Wax,Wax-like,1.574804,1.181103,3.93701,Price not reported,Discontinued
+Click for Details,EOS,EOSINT M 270, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Cobalt, Nickel, Steel, Titanium",9.85,9.85,8.5,"$250,000 - $499,999",Discontinued
+Click for Details,EOS,EOSINT M 270,Dual Mode,200,Powder Bed Fusion (e.g. SLS),Metal,"Cobalt, Nickel, Steel, Titanium",9.85,9.85,8.5,"$250,000 - $499,999",Discontinued
+Click for Details,EOS,EOSINT M 270,Standard,200,Powder Bed Fusion (e.g. SLS),Metal,"Cobalt, Nickel, Steel, Titanium",9.85,9.85,8.5,"$250,000 - $499,999",Discontinued
+Click for Details,EOS,EOSINT M 270,Xtended,200,Powder Bed Fusion (e.g. SLS),Metal,"Cobalt, Nickel, Steel, Titanium",9.85,9.85,8.5,"$250,000 - $499,999",Discontinued
+Click for Details,EOS,EOSINT M 280, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Aluminum, Cobalt, Nickel, Steel, Titanium",9.85,9.85,12.8,"$250,000 - $499,999",Discontinued
+Click for Details,EOS,EOSINT P 350, , ,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass", , , ,Price not reported,Discontinued
+Click for Details,EOS,EOSINT P 360, , ,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Metal, PS", , , ,Price not reported,Discontinued
+Click for Details,EOS,EOSINT P 380, ,50,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Carbon, PA-Glass, PA-Metal, PS",13.4,13.4,24.4,Price not reported,Discontinued
+Click for Details,EOS,EOSINT P 380i, , ,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Carbon, PA-Glass, PA-Metal, PS", , , ,Price not reported,Discontinued
+Click for Details,EOS,EOSINT P 385, , ,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Carbon, PA-Glass, PA-Metal, PS",13.4,13.4,24.4,Price not reported,Discontinued
+Click for Details,EOS,EOSINT P 390, ,50,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Carbon, PA-Glass, PA-Metal, PS",13.4,13.4,24.4,Price not reported,Discontinued
+Click for Details,EOS,EOSINT P 395,Basic,50,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Carbon, PA-Glass, PA-Metal, PS, TPE",13.4,13.4,24.4,Price not reported,Discontinued
+Click for Details,EOS,EOSINT P 395,Surface,50,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Carbon, PA-Glass, PA-Metal, PS, TPE",13.4,13.4,24.4,Price not reported,Discontinued
+Click for Details,EOS,EOSINT P 700, ,50,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Metal, PS",27.6,15,22.9,Price not reported,Discontinued
+Click for Details,EOS,EOSINT P 730, ,50,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Metal, PS",27.6,15,22.9,Price not reported,Discontinued
+Click for Details,EOS,EOSINT P 760,Basic,50,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Metal, PS",27.6,15,22.9,"$500,000 - $999,999",Discontinued
+Click for Details,EOS,EOSINT P 760,Surface,50,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Metal, PS",27.6,15,22.9,"$500,000 - $999,999",Discontinued
+Click for Details,EOS,EOSINT S 750, ,1000,Powder Bed Fusion (e.g. SLS),Sand,Silicate,28.4,15,15,"$500,000 - $999,999",Discontinued
+Click for Details,EOS,FORMIGA P 100, ,30,Powder Bed Fusion (e.g. SLS),"Composite, Polymer", ,7.9,9.8,13,"$100,000 - $249,999",Discontinued
+Click for Details,EOS,FORMIGA P 100 (Rel 2), , ,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Metal, PS", , , ,"$100,000 - $249,999",Discontinued
+Click for Details,EOS,FORMIGA P 100 Dental, , ,Powder Bed Fusion (e.g. SLS),"Composite, Polymer",PA, , , ,"$100,000 - $249,999",Discontinued
+Click for Details,EOS,FORMIGA P 110, ,30,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Metal, PS",7.9,9.8,13,"$100,000 - $249,999",Discontinued
+Click for Details,EVO-tech,Evo-Lizer, , ,Material Extrusion (e.g. FDM),Polymer,"ABS, PPS, ASA, PLA, PET, TPE, HIPS",10.63,7.87,8.27,"Less than $49,999",Discontinued
+Click for Details,ExOne,X1-Lab, , ,Binder Jetting,Metal,Steel,1.5,2.3,1.3,"$100,000 - $249,999",Discontinued
+Click for Details,Helix 3D,Helix, , ,Material Extrusion (e.g. FDM),Polymer,"ABS, PC, PETT, PA",11.81103,11.417329,11.81103,"Less than $49,999",Discontinued
+Click for Details,HP,HP Jet Fusion 3D 3200 Printer, , ,Powder Bed Fusion (e.g. SLS),Polymer,PA,15,11,15,"$100,000 - $249,999",Discontinued
+Click for Details,Hunan Farsoon,FARSOON 251, ,30,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Carbon, PA-Mineral",9.84,9.84,12.6,"$100,000 - $249,999",Discontinued
+Click for Details,Hunan Farsoon,FARSOON 251,HT,60,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Carbon, PA-Mineral",9.84,9.84,12.6,"$100,000 - $249,999",Discontinued
+Click for Details,Hunan Farsoon,FARSOON 401, ,30,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Carbon, PA-Mineral",15.75,15.75,17.72,"$250,000 - $499,999",Discontinued
+Click for Details,Hunan Farsoon,FARSOON 402, ,30,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Carbon, PA-Mineral",15.75,15.75,17.72,"$250,000 - $499,999",Discontinued
+Click for Details,Hunan Farsoon,FARSOON 402,HS,60,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Carbon, PA-Mineral",15.75,15.75,17.72,"$250,000 - $499,999",Discontinued
+Click for Details,Hunan Farsoon,FARSOON 402,SS,100,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PA-Carbon, PA-Mineral",15.75,15.75,17.72,"$250,000 - $499,999",Discontinued
+Click for Details,InssTek,MPC,"5 Axis Motion Model, SDM 800",500,Directed Energy Deposition,Metal,Titanium, , , ,Price not reported,Discontinued
+Click for Details,InssTek,MX-250,"3 Axis Motion Model, SDM 500",300,Directed Energy Deposition,Metal, ,9.8,9.8,9.8,Price not reported,Discontinued
+Click for Details,InssTek,MX-250,"3 Axis Motion Model, SDM 800",300,Directed Energy Deposition,Metal, ,9.8,9.8,9.8,Price not reported,Discontinued
+Click for Details,InssTek,MX-250,"5 Axis Motion Model, SDM 500",300,Directed Energy Deposition,Metal, ,9.8,9.8,9.8,Price not reported,Discontinued
+Click for Details,InssTek,MX-250,"5 Axis Motion Model, SDM 800",300,Directed Energy Deposition,Metal, ,9.8,9.8,9.8,Price not reported,Discontinued
+Click for Details,InssTek,MX-450,"3 Axis Motion Model, SDM 1200",1000,Directed Energy Deposition,Metal,"Steel, Copper, Aluminum, Titanium, Nickel, Cobalt, Tin, Refractory Metal",17.716545,17.716545,13.779535,"$500,000 - $999,999",Discontinued
+Click for Details,InssTek,MX-450,"3 Axis Motion Model, SDM 500",1000,Directed Energy Deposition,Metal,"Steel, Copper, Aluminum, Titanium, Nickel, Cobalt, Tin, Refractory Metal",17.716545,17.716545,13.779535,"$500,000 - $999,999",Discontinued
+Click for Details,InssTek,MX-450,"3 Axis Motion Model, SDM 800",1000,Directed Energy Deposition,Metal,"Steel, Copper, Aluminum, Titanium, Nickel, Cobalt, Tin, Refractory Metal",17.716545,17.716545,13.779535,"$500,000 - $999,999",Discontinued
+Click for Details,InssTek,MX-450,"5 Axis Motion Model, SDM 1200",1000,Directed Energy Deposition,Metal,"Steel, Copper, Aluminum, Titanium, Nickel, Cobalt, Tin, Refractory Metal",17.716545,17.716545,13.779535,"$500,000 - $999,999",Discontinued
+Click for Details,InssTek,MX-450,"5 Axis Motion Model, SDM 500",1000,Directed Energy Deposition,Metal,"Steel, Copper, Aluminum, Titanium, Nickel, Cobalt, Tin, Refractory Metal",17.716545,17.716545,13.779535,"$500,000 - $999,999",Discontinued
+Click for Details,InssTek,MX-450,"5 Axis Motion Model, SDM 800",1000,Directed Energy Deposition,Metal,"Steel, Copper, Aluminum, Titanium, Nickel, Cobalt, Tin, Refractory Metal",17.716545,17.716545,13.779535,"$500,000 - $999,999",Discontinued
+Click for Details,Kevvox,SP4300, , ,Vat Photopolymerization (e.g. SLA),Polymer,"PP-like, ABS-like",2.2,1.38,3.94,"Less than $49,999",Discontinued
+Click for Details,Kevvox,SP6200, , ,Vat Photopolymerization (e.g. SLA),Polymer,"PP-like, ABS-like",3.15,1.97,3.94,"Less than $49,999",Discontinued
+Click for Details,Keyence,Agilista-3100, , ,Material Jetting,Polymer, ,11.69,8.27,7.87,"Less than $49,999",Discontinued
+Click for Details,Laseradd,Laseradd DiMetal-280, ,500,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Cobalt, Titanium",9.84,9.84,11.81,Price not reported,Discontinued
+Click for Details,Laseradd,Laseradd DiMetal-280, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Cobalt, Titanium",9.84,9.84,11.81,Price not reported,Discontinued
+Click for Details,MCor Technologies,IRIS, , ,Sheet Lamination,Paper,Paper,10.08,6.65,5.91,"Less than $49,999",Discontinued
+Click for Details,Mutoh,MA5000-S1, , ,Directed Energy Deposition,Metal,"Steel, Nickel, Titanium, Aluminum, Magnesium",19.69,19.69,19.69,"$100,000 - $249,999",Discontinued
+Click for Details,PrismLab,Rapid200, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,4.25,7.56,7.56,Price not reported,Discontinued
+Click for Details,Prodways,ProMaker D35, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,28.35,9.06,5.91,"$250,000 - $499,999",Discontinued
+Click for Details,Prodways,ProMaker L8000, , ,Vat Photopolymerization (e.g. SLA),Polymer,ABS-like,33.07,25.98,21.65,"$250,000 - $499,999",Discontinued
+Click for Details,Prodways,ProMaker LD-20, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,11.81,17.52,7.87,"$100,000 - $249,999",Discontinued
+Click for Details,Prodways,ProMaker P4000 HS, ,60,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Carbon, PA-Glass, PA-Mineral",15.75,15.75,17.72,Price not reported,Discontinued
+Click for Details,Prodways,ProMaker P4000 SD, ,30,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Carbon, PA-Glass, PA-Mineral",15.75,15.75,17.72,Price not reported,Discontinued
+Click for Details,Prodways,ProMaker P4000 X, ,100,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Carbon, PA-Glass, PA-Mineral",15.75,15.75,17.72,Price not reported,Discontinued
+Click for Details,Prodways,ProMaker V4000, , ,Vat Photopolymerization (e.g. SLA),Ceramic, ,11.81103,11.81103,3.93701,Price not reported,Discontinued
+Click for Details,Rapid Shape,D30, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,4.330711,2.440946,3.346459,"Less than $49,999",Discontinued
+Click for Details,Rapid Shape,D40, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,4.330711,4.881892,3.346459,"Less than $49,999",Discontinued
+Click for Details,Rapid Shape,HA20, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,1.97,1.57,3.35,"Less than $49,999",Discontinued
+Click for Details,Rapid Shape,HA30, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,1.968505,1.377954,3.149608,"Less than $49,999",Discontinued
+Click for Details,Rapid Shape,HA30 2017, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,3.19,1.81,3.35,"Less than $49,999",Discontinued
+Click for Details,Rapid Shape,HA40, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,5.71,3.15,3.15,"Less than $49,999",Discontinued
+Click for Details,Rapid Shape,HA60 UV, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,4.330711,2.440946,3.543309,"Less than $49,999",Discontinued
+Click for Details,Rapid Shape,HA90, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,6.023625,3.77953,5.905515,"$50,000 - $99,999",Discontinued
+Click for Details,Rapid Shape,S50 maxi, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,4.881892,2.755907,3.543309,"Less than $49,999",Discontinued
+Click for Details,Rapid Shape,S50 midi, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,3.74016,2.086615,3.543309,"Less than $49,999",Discontinued
+Click for Details,Rapid Shape,S50 mini, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,2.992128,1.653544,3.543309,"Less than $49,999",Discontinued
+Click for Details,Rapid Shape,S60 maxi, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,4.881892,2.755907,4.330711,"$50,000 - $99,999",Discontinued
+Click for Details,Rapid Shape,S60 midi, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,3.74016,2.086615,4.330711,"$50,000 - $99,999",Discontinued
+Click for Details,Rapid Shape,S60 mini, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,2.992128,1.653544,4.330711,"$50,000 - $99,999",Discontinued
+Click for Details,Rapid Shape,S90, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,6.023625,3.385829,7.87402,"$50,000 - $99,999",Discontinued
+Click for Details,Rapid Shape,S90 L, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,7.559059,4.251971,7.87402,"$50,000 - $99,999",Discontinued
+Click for Details,Re3D,Gigabot, , ,Material Extrusion (e.g. FDM),Polymer,"PLA, ABS",23.2,23.6,23.6,"Less than $49,999",Discontinued
+Click for Details,Re3D,Gigabot XL, , ,Material Extrusion (e.g. FDM),Polymer,"PLA, ABS",23.2,30,23.6,"Less than $49,999",Discontinued
+Click for Details,Re3D,Gigabot XLT, , ,Material Extrusion (e.g. FDM),Polymer,"PLA, ABS",23.2,30,36,"Less than $49,999",Discontinued
+Click for Details,Realizer,SLM 100, , ,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Aluminum, Cobalt, Nickel",4.92,4.92,7.87,"$100,000 - $249,999",Discontinued
+Click for Details,Realizer,SLM 250, ,600,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Aluminum, Cobalt, Nickel",9.84,9.84,11.81,"$250,000 - $499,999",Discontinued
+Click for Details,Realizer,SLM 300, ,1000,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Aluminum, Cobalt, Nickel",11.81,11.81,11.81,"$500,000 - $999,999",Discontinued
+Click for Details,Realizer,SLM 300, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Aluminum, Cobalt, Nickel",11.81,11.81,11.81,"$500,000 - $999,999",Discontinued
+Click for Details,Realizer,SLM 300, ,600,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Aluminum, Cobalt, Nickel",11.81,11.81,11.81,"$500,000 - $999,999",Discontinued
+Click for Details,Realizer,SLM 300, ,400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Aluminum, Cobalt, Nickel",11.81,11.81,11.81,"$500,000 - $999,999",Discontinued
+Click for Details,Roland,ARM-10, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,5.1,2.7,2.7,"Less than $49,999",Discontinued
+Click for Details,Shanghai Union Technology,DLP DeX50, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,2.1,1.3,3.9,"Less than $49,999",Discontinued
+Click for Details,Shanghai Union Technology,DLP DeX60, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,2.5,1.6,3.9,"Less than $49,999",Discontinued
+Click for Details,Shanghai Union Technology,EvoDent DLP, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,4.33,2.44,3.35,Price not reported,Discontinued
+Click for Details,Shanghai Union Technology,Lite300, ,0.5,Vat Photopolymerization (e.g. SLA),Polymer, ,11.8,11.8,7.9,"$50,000 - $99,999",Discontinued
+Click for Details,Shanghai Union Technology,Lite300, ,1,Vat Photopolymerization (e.g. SLA),Polymer, ,11.8,11.8,7.9,"$50,000 - $99,999",Discontinued
+Click for Details,Shanghai Union Technology,Pilot SD, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,9.84,9.84,9.84,Price not reported,Discontinued
+Click for Details,Shanghai Union Technology,RS3500, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,13.8,13.8,11.8,"$100,000 - $249,999",Discontinued
+Click for Details,Shanghai Union Technology,RS4500, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,17.7,17.7,15.7,"$100,000 - $249,999",Discontinued
+Click for Details,Shanghai Union Technology,RS6000, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,23.6,23.6,15.7,"$100,000 - $249,999",Discontinued
+Click for Details,Shanghai Union Technology,RS8000, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,31.5,23.6,15.7,Price not reported,Discontinued
+Click for Details,Shanghai Union Technology,RSPro 450, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,17.7,17.7,15.7,"$100,000 - $249,999",Discontinued
+Click for Details,Shining 3D,EP-P380, ,55,Powder Bed Fusion (e.g. SLS),"Composite, Polymer","PA, PA-Glass, PP, TPU, PE, TPE",14.9,14.9,19.6,Price not reported,Discontinued
+Click for Details,Shining 3D,iSLA-450, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,17.7,17.7,15.7,Price not reported,Discontinued
+Click for Details,Shining 3D,iSLA-600 Pro, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,23.62,23.62,15.75,Price not reported,Discontinued
+Click for Details,Shining 3D,iSLA-650, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,25.6,23.6,15.7,Price not reported,Discontinued
+Click for Details,Sisma,MY SINT PM,100mm Diameter,150,Powder Bed Fusion (e.g. SLS),Metal,"Bronze, Cobalt, Gold, Silver, Steel",3.93701,3.93701,3.149608,Price not reported,Discontinued
+Click for Details,Sisma,MY SINT PM,34.5mm Diameter,150,Powder Bed Fusion (e.g. SLS),Metal,"Bronze, Cobalt, Gold, Silver, Steel",1.358268,1.358268,3.149608,Price not reported,Discontinued
+Click for Details,Sisma,MY SINT PM,50mm Diameter,150,Powder Bed Fusion (e.g. SLS),Metal,"Bronze, Cobalt, Gold, Silver, Steel",1.968505,1.968505,3.149608,Price not reported,Discontinued
+Click for Details,Sisma,MY SINT PM,63.5mm Diameter,150,Powder Bed Fusion (e.g. SLS),Metal,"Bronze, Cobalt, Gold, Silver, Steel",2.500001,2.500001,3.149608,Price not reported,Discontinued
+Click for Details,Sisma,MY SINT PM,85mm Diameter,150,Powder Bed Fusion (e.g. SLS),Metal,"Bronze, Cobalt, Gold, Silver, Steel",3.346459,3.346459,3.149608,Price not reported,Discontinued
+Click for Details,Sisma,myrev100, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,3.94,3.94,5.91,Price not reported,Discontinued
+Click for Details,Sisma,myrev140, , ,Vat Photopolymerization (e.g. SLA),Polymer, ,5.51,5.51,5.91,Price not reported,Discontinued
+Click for Details,SLM Solutions,SLM 125 HL, ,100,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum, Nickel",4.92,4.92,2.95,"$250,000 - $499,999",Discontinued
+Click for Details,SLM Solutions,SLM 125 HL, ,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum, Nickel",4.92,4.92,2.95,"$250,000 - $499,999",Discontinued
+Click for Details,SLM Solutions,SLM 125 HL,Extension Z-axis,200,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum, Nickel",4.92,4.92,4.92,"$250,000 - $499,999",Discontinued
+Click for Details,SLM Solutions,SLM 125 HL,Extension Z-axis,100,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum, Nickel",4.92,4.92,4.92,"$250,000 - $499,999",Discontinued
+Click for Details,SLM Solutions,SLM 125 HL (2015 Release), ,400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum, Nickel",4.92,4.92,2.95,"$250,000 - $499,999",Discontinued
+Click for Details,SLM Solutions,SLM 125 HL (2015 Release),Extension Z-axis,400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum, Nickel",4.92,4.92,4.92,"$250,000 - $499,999",Discontinued
+Click for Details,SLM Solutions,SLM 280 HL, ,400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum, Nickel",11.02,11.02,13.78,"$500,000 - $999,999",Discontinued
+Click for Details,SLM Solutions,SLM 280 HL, ,1000,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum, Nickel",11.02,11.02,13.78,"$500,000 - $999,999",Discontinued
+Click for Details,SLM Solutions,SLM 280 HL (2015 Release), ,400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum, Nickel",11.02,11.02,13.78,"$500,000 - $999,999",Discontinued
+Click for Details,SLM Solutions,SLM 280 HL (2015 Release), ,1000,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum, Nickel",11.02,11.02,13.78,"$500,000 - $999,999",Discontinued
+Click for Details,SLM Solutions,SLM 280 HL (2015 Release),Dual lasers,400,Powder Bed Fusion (e.g. SLS),Metal,"Steel, Titanium, Cobalt, Aluminum, Nickel",11.02,11.02,13.78,"$500,000 - $999,999",Discontinued
+Click for Details,SLM Solutions,SLM 500 HL, ,400,Powder Bed Fusion (e.g. SLS),Metal, ,19.69,11.02,12.6,"Greater than $1,000,000",Discontinued
+Click for Details,SLM Solutions,SLM 500 HL, ,1000,Powder Bed Fusion (e.g. SLS),Metal, ,19.69,11.02,12.6,"Greater than $1,000,000",Discontinued
+Click for Details,SLM Solutions,SLM 500 HL (2015 Release),Dual lasers,400,Powder Bed Fusion (e.g. SLS),Metal, ,19.69,11.02,12.6,"Greater than $1,000,000",Discontinued
+Click for Details,SLM Solutions,SLM 500 HL (2015 Release),Quad Lasers,"400, 1000",Powder Bed Fusion (e.g. SLS),Metal, ,19.69,11.02,12.6,"Greater than $1,000,000",Discontinued
+Click for Details,SLM Solutions,SLM 500 HL (2015 Release),Quad Lasers,400,Powder Bed Fusion (e.g. SLS),Metal, ,19.69,11.02,12.6,"Greater than $1,000,000",Discontinued
+Click for Details,Solidscape (A Prodways Company),3Z Lab, , ,Material Jetting,Wax,Wax-like,6,6,2,"Less than $49,999",Discontinued
+Click for Details,Solidscape (A Prodways Company),3Z Pro, , ,Material Jetting,Wax,Wax-like,6,6,4,"Less than $49,999",Discontinued
+Click for Details,Solidscape (A Prodways Company),3Z Studio, , ,Material Jetting,Wax,Wax-like,6,6,2,"Less than $49,999",Discontinued
+Click for Details,Solidscape (A Prodways Company),Max2, , ,Material Jetting,Wax,Wax-like,6,6,4,"Less than $49,999",Discontinued
+Click for Details,Stratasys,CrownWorx, , ,Material Extrusion (e.g. FDM),Wax,Wax,6,6,2,"Less than $49,999",Discontinued
+Click for Details,Stratasys,Dimension 1200es,BST (Breakaway Support Technology), ,Material Extrusion (e.g. FDM),Polymer,ABS,10,10,12,"Less than $49,999",Discontinued
+Click for Details,Stratasys,Dimension 1200es,SST (Soluble Support Technology), ,Material Extrusion (e.g. FDM),Polymer,ABS,10,10,12,"Less than $49,999",Discontinued
+Click for Details,Stratasys,Dimension Elite,SST (Soluble Support Technology), ,Material Extrusion (e.g. FDM),Polymer,ABS,8,8,12,"Less than $49,999",Discontinued
+Click for Details,Stratasys,Fortus 250mc, , ,Material Extrusion (e.g. FDM),Polymer,ABS,10,10,12,"Less than $49,999",Discontinued
+Click for Details,Stratasys,Fortus 360mc,Base, ,Material Extrusion (e.g. FDM),Polymer,"ABS, ABS/PP, ASA, PEI, PC",14,10,10,"$50,000 - $99,999",Discontinued
+Click for Details,Stratasys,Fortus 360mc,Upgrade, ,Material Extrusion (e.g. FDM),Polymer,"ABS, ABS/PP, ASA, PEI, PC",16,14,16,"$50,000 - $99,999",Discontinued
+Click for Details,Stratasys,Fortus 400mc,Base, ,Material Extrusion (e.g. FDM),"Composite, Polymer","ABS, ABS/PP, ASA, PEI, PC, PPS",14,10,10,"$100,000 - $249,999",Discontinued
+Click for Details,Stratasys,Fortus 400mc,Upgrade, ,Material Extrusion (e.g. FDM),"Composite, Polymer","ABS, ABS/PP, ASA, PEI, PC, PPS",16,14,16,"$100,000 - $249,999",Discontinued
+Click for Details,Stratasys,Fortus 900mc,Base, ,Material Extrusion (e.g. FDM),"Composite, Polymer","ABS, ABS/PP, ASA, PEI, PC, PPS, PA",36,24,36,"$250,000 - $499,999",Discontinued
+Click for Details,Stratasys,FrameWorx, , ,Material Extrusion (e.g. FDM),Wax,Wax,6,6,2,"Less than $49,999",Discontinued
+Click for Details,Stratasys,Objet Eden250,High Quality (HQ), ,Material Jetting,Polymer,"Acrylic, PP-like",9.84,9.84,7.87,"Less than $49,999",Discontinued
+Click for Details,Stratasys,Objet Eden250,High Speed (HS), ,Material Jetting,Polymer,"Acrylic, PP-like",9.84,9.84,7.87,"Less than $49,999",Discontinued
+Click for Details,Stratasys,Objet Eden260V,High Quality (HQ), ,Material Jetting,Polymer,"Acrylic, PP-like, Rubber-like",10.04,9.92,7.87,"$50,000 - $99,999",Discontinued
+Click for Details,Stratasys,Objet Eden260V,High Speed (HS), ,Material Jetting,Polymer,"Acrylic, PP-like, Rubber-like",10.04,9.92,7.87,"$50,000 - $99,999",Discontinued
+Click for Details,Stratasys,Objet Eden260V Dental Advantage, , ,Material Jetting,Polymer, ,10.24,10.24,7.9,"$50,000 - $99,999",Discontinued
+Click for Details,Stratasys,Objet Eden350V, , ,Material Jetting,Polymer,"Acrylic, PP-like, Rubber-like",13.4,13.4,7.9,"$100,000 - $249,999",Discontinued
+Click for Details,Stratasys,Objet Eden500V,High Quality (HQ), ,Material Jetting,Polymer,"Acrylic, PP-like, Rubber-like",19.29,15.35,7.87,"$100,000 - $249,999",Discontinued
+Click for Details,Stratasys,Objet Eden500V,High Speed (HS), ,Material Jetting,Polymer,"Acrylic, PP-like, Rubber-like",19.29,15.35,7.87,"$100,000 - $249,999",Discontinued
+Click for Details,Stratasys,Objet1000,Digital Material (DM), ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",39.3,31.4,19.6,"$500,000 - $999,999",Discontinued
+Click for Details,Stratasys,Objet1000,High Quality (HQ), ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",39.3,31.4,19.6,"$500,000 - $999,999",Discontinued
+Click for Details,Stratasys,Objet1000,High Speed (HS), ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",39.3,31.4,19.6,"$500,000 - $999,999",Discontinued
+Click for Details,Stratasys,Objet260 Connex, , ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",10,9.9,7.9,"$100,000 - $249,999",Discontinued
+Click for Details,Stratasys,Objet260 Connex2,Digital material, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",10.039376,9.921265,7.87402,"$100,000 - $249,999",Discontinued
+Click for Details,Stratasys,Objet260 Connex2,High quality, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",10.039376,9.921265,7.87402,"$100,000 - $249,999",Discontinued
+Click for Details,Stratasys,Objet260 Connex2,High speed, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",10.039376,9.921265,7.87402,"$100,000 - $249,999",Discontinued
+Click for Details,Stratasys,Objet350 Connex,Digital Material (DM), ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",13.4,13.4,7.9,"$100,000 - $249,999",Discontinued
+Click for Details,Stratasys,Objet350 Connex,High Quality (HQ), ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",13.4,13.4,7.9,"$100,000 - $249,999",Discontinued
+Click for Details,Stratasys,Objet350 Connex,High Speed (HS), ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",13.4,13.4,7.9,"$100,000 - $249,999",Discontinued
+Click for Details,Stratasys,Objet350 Connex1,Digital material, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",13.385834,13.385834,7.87402,"$100,000 - $249,999",Discontinued
+Click for Details,Stratasys,Objet350 Connex1,High quality, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",13.385834,13.385834,7.87402,"$100,000 - $249,999",Discontinued
+Click for Details,Stratasys,Objet350 Connex1,High speed, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",13.385834,13.385834,7.87402,"$100,000 - $249,999",Discontinued
+Click for Details,Stratasys,Objet350 Connex2,Digital material, ,Material Jetting,Polymer,"ABS-like, Acrylic, PP-like, Rubber-like",13.385834,13.385834,7.87402,"$100,000 - $249,999",Discontinued
+
+Show per page 102550100250  ,Show per page ,102550100250,  , , Page    of 2 , Page  ,,  of 2 ,,
+Show per page ,102550100250,  
+ Page  ,,  of 2 ,,
+ ,Records 1-1000 of 1039,Records 1-1000 of 1039, 
+Records 1-1000 of 1039
+
+Show per page ,102550100250,  
+
+ Page  ,,  of 2 ,,
+
+Records 1-1000 of 1039

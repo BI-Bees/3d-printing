@@ -1,8 +1,10 @@
 from requests import get
+import requests
 from requests.exceptions import RequestException
 from contextlib import closing
 from bs4 import BeautifulSoup
 import csv
+import codecs
 
 def simple_get(url):
     """
@@ -43,39 +45,61 @@ def log_error(e):
 if __name__ == '__main__':
 
     table_content = []
-    myFile = open('3d_printers.csv', 'w')
 
-    raw_html = simple_get('https://www.3ders.org/pricecompare/3dprinters/')
+    myFile = open('3d_printers_senvol.csv', 'w')
+
+    raw_html = codecs.open("2A_Machine Search Results Table.html", 'r')
     html = BeautifulSoup(raw_html, 'html.parser')
-    for span in html.select('span'):
-        if span.get('id') == 'Label_Products':
-                for tr in span.select('tr'):
-                    tr_list = []
-                    for td in tr.select('td'):
-                        tr_list.append(td.text)
-                    table_content.append(tr_list)
-    print(table_content)
+    for table in html.select('table'):
+        th_list = []
+        for th in table.select('th'):
+            for a in th.select('a'):
+                print(a)
+                th_list.append(a.text)
+        table_content.append(th_list)
+        for tr in table.select('tr'):
+            tr_list = []
+            for td in tr.select('td'):
+                tr_list.append(td.text)
+            table_content.append(tr_list)
     with myFile:
         writer = csv.writer(myFile)
         writer.writerows(table_content)
     myFile.close()
 
-    table_content = []
-    myFile = open('countries.csv', 'w')
-    countries_raw_html = simple_get('https://developers.google.com/public-data/docs/canonical/countries_csv')
-    countries_html = BeautifulSoup(countries_raw_html, 'html.parser')
-    div = countries_html.find("div", {"class": "devsite-article-body"})
-    th_list = []
-    for th in div.select('th'):
-        th_list.append(th.text)
-    table_content.append(th_list)
-    for tr in div.select('tr'):
-        tr_list = []
-        for td in tr.select('td'):
-            tr_list.append(td.text)
-        table_content.append(tr_list)
-    print(table_content)
-    with myFile:
-        writer = csv.writer(myFile)
-        writer.writerows(table_content)
-    myFile.close()
+    # myFile = open('3d_printers.csv', 'w')
+    #
+    # raw_html = simple_get('https://www.3ders.org/pricecompare/3dprinters/')
+    # html = BeautifulSoup(raw_html, 'html.parser')
+    # for span in html.select('span'):
+    #     if span.get('id') == 'Label_Products':
+    #             for tr in span.select('tr'):
+    #                 tr_list = []
+    #                 for td in tr.select('td'):
+    #                     tr_list.append(td.text)
+    #                 table_content.append(tr_list)
+    # print(table_content)
+    # with myFile:
+    #     writer = csv.writer(myFile)
+    #     writer.writerows(table_content)
+    # myFile.close()
+    #
+    # table_content = []
+    # myFile = open('countries.csv', 'w')
+    # countries_raw_html = simple_get('https://developers.google.com/public-data/docs/canonical/countries_csv')
+    # countries_html = BeautifulSoup(countries_raw_html, 'html.parser')
+    # div = countries_html.find("div", {"class": "devsite-article-body"})
+    # th_list = []
+    # for th in div.select('th'):
+    #     th_list.append(th.text)
+    # table_content.append(th_list)
+    # for tr in div.select('tr'):
+    #     tr_list = []
+    #     for td in tr.select('td'):
+    #         tr_list.append(td.text)
+    #     table_content.append(tr_list)
+    # print(table_content)
+    # with myFile:
+    #     writer = csv.writer(myFile)
+    #     writer.writerows(table_content)
+    # myFile.close()
