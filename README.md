@@ -22,3 +22,8 @@ Priser på materiale https://www.3ders.org/pricecompare/
 Priser på 3d-printere https://www.3ders.org/pricecompare/3dprinters/
 
 Denne side siger at teknologien til "Three-dimensional printing in medicine" er "FDM" https://www.mja.com.au/journal/2017/207/3/three-dimensional-printing-medicine
+
+Database over 3D printere og materialer til 3D print: http://senvol.com/machine-search/
+
+Liste over bioprint fabrikanter: https://www.3dprintingbusiness.directory/company-category/3d-bioprinter-manufacturer/ 
+
