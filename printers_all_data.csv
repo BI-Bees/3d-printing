@@ -1,4 +1,4 @@
-index,Shop,Country,Manufacturer,Model,Assembled,Build envelope(W x D x H mm),Image,Technology,Price(US$),Lead time,lat,long,Unnamed: 0,Mode,Power (W),AM Process,General Material Type,Specific Material Type,X (in),Y (in),Z (in),Price (USD),Availability
+,Shop,Country,Manufacturer,Model,Assembled,Build envelope(W x D x H mm),Image,Technology,Price(US$),Lead time,lat,long,Unnamed: 0,Mode,Power (W),AM Process,General Material Type,Specific Material Type,X (in),Y (in),Z (in),Price (USD),Availability
 0,Makex,China,MakeX,Migo Basic with Laser Engraver option,Yes,100x120x120,,FFF,$ 149.00,-,35.86166,104.195397,,,,,,,,,,,
 1,Makex,China,MakeX,Migo with Laser Engraver option,Yes,100x120x120,,FFF,$ 249.00,-,35.86166,104.195397,,,,,,,,,,,
 2,New Matter,United States,New Matter,MOD-t  3D printe,Yes,150x100x125,,FFF,$ 249.00,-,37.09024,-95.712891,,,,,,,,,,,
