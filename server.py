@@ -71,3 +71,6 @@ def create_tech_bar(df_combined_techs):
         line_chart.add(tech,
                        df_combined_techs.Technology.value_counts()[tech])
     return line_chart
+
+if __name__ == "__main__":
+    app.run(host='0.0.0.0')
