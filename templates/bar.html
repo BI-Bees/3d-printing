@@ -5,7 +5,7 @@
 	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 </head>
 <body>
-<h1>Welcome</h1>
+<h3>Bar grafer</h3>
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="navbar-nav">
@@ -16,14 +16,18 @@
     </div>
 </nav>
 
+<p>Her kan diverse grafer ses om er blevet lavet ud fra den data der kan findes under "Data Set"</p>
 
 <div class="country_bar">
+	<p>Denne graf viser hvor mange 3d-printer producenter der er per land</p>
 	<embed type="image/svg+xml" src= {{ data|safe }} />
 </div>
 <div class="tech_bar">
+	<p>Denne graf viser hvor mange teknologier der bliver brugt af 3d-printere</p>
 	<embed type="image/svg+xml" src= {{ tech_data|safe }} />
 </div>
 <div class="price_bar">
+	<p>Denne graf viser antallet af 3d-printere som ligge i hvilke pris leje</p>
 	<embed type="image/svg+xml" src= {{ price_data|safe }} />
 </div>
 
