@@ -1,6 +1,6 @@
 # Kontrakt 
 
-Kontrakt vedrørende dataoverlevering mellem mellem softwareudviklings- og innovation & entreprenørskabs gruppen.
+Kontrakt vedrørende dataoverlevering mellem mellem softwareudviklings- og innovation & entreprenørskabsgruppen.
 
 ### Dato for overlevering
 Det aftalte materiale vil være klar senest den 7. december 2018, kl. 12.
@@ -12,15 +12,15 @@ Materialet vil være at finde på:
 
 Materialet til overlevering vil bestå af: 
 * **Diagrammer**:
-  * Et bar diagram der beskriver fordelingen af 3D printere i verden
+  * Et bar diagram der beskriver fordelingen af 3D printer producenter i verden
   * Et bar diagram der beskriver fordelingen af print teknologier brugt for de 3D printerne der optræder i datasettet
   * Et bar diagram der beskriver prisniveauet for de 3D printerne der optræder i datasettet
   
 * **Kort**: 
-  * Et kort der viser fordelingen af 3D printere i verden
+  * Et kort der viser fordelingen af 3D printer producenter i verden
   
 * **Dataset**:
-  * Liste over de CSV filer de kan downloade
+  * Mulighed for at downloade de CSV filer der blevet benyttet til databehandling 
   
 Alt materialet kan ses på førnævnte hjemmeside. 
 CSV filerne kan downloades. 
