@@ -5,16 +5,17 @@ Vi har valgt at lave en hjemmeside vores business gruppe kan tilgå for at se hv
 ## Server
 
 Vi har brugt python og frameworket "flask" til at lave en web app. Den app har vi deployet på DigitalOcean som kan ses her: http://167.99.131.56:5000/
+
 Da denne app er meget simpel og vi vil have, så lille et "overhead" som muligt når det kommer til diverse frameworks og sikkerheds opsætninger, kører vi denne app via en python kommando på serveren. Vi har dog sat et cron-job op som tjekker om denne app kører og i tilfælde af at den ikke gør det, genstarter cron-jobbet appen. Dette cron-job er sat op til at eksekvere hvert 15. minut.
-De det er sat simpelt op betyder det også at vi manuelt skal gå ind på serveren og "pulle" fra Github når der er nye opdateringer.   
+De vi arbejder med en simpel opsætning skal vi manuelt ind på serveren, opdatere filerne, og genstarte web appen.  
 
 ## Data Scraping
 
-Vi har lavet et python script som downloader html koden fra de sider vi gerne ville have data fra. Derefter gemmer vi det data vi skal bruge i diverse csv filer, så vi senere kan bruge python og pandas til at behandle denne data.
+Vi har lavet et python script som downloader html koden fra de sider vi gerne ville have data fra. Derefter gemmer vi dette data vi skal bruge, i diverse csv filer, så vi kan bruge python og pandas til at behandle denne data.
 
 De sider som vi har brugt data fra kan ses herunder:
 
-* [Senvol.com](http://senvol.com/5_machine-results/)
+* [Senvol.com](http://senvol.com/machine-search/)
 
 * [3ders.org](https://www.3ders.org/pricecompare/3dprinters/)
 
