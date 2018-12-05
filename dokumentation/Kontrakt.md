@@ -20,7 +20,7 @@ Materialet til overlevering vil bestå af:
   * Et kort der viser fordelingen af 3D printer producenter i verden
   
 * **Dataset**:
-  * Liste over de CSV filer de kan downloade
+  * Mulighed for at downloade de CSV filer der blevet benyttet til databehandling 
   
 Alt materialet kan ses på førnævnte hjemmeside. 
 CSV filerne kan downloades. 
