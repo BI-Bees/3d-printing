@@ -28,7 +28,6 @@ def bar_page():
     df_combined_tech = get_combined_tech()
     df_country = get_countries()
     df_combined_price = get_combined_price()
-    df_combined_price_country = get_combined_country_price()
     bar = bars.create_data_bar(df, df_country)
     tech_bar = bars.create_tech_bar(df_combined_tech)
     price_bar = bars.create_price_bar(df_combined_price)
