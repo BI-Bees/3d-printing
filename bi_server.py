@@ -28,10 +28,12 @@ def bar_page():
     df_combined_tech = get_combined_tech()
     df_country = get_countries()
     df_combined_price = get_combined_price()
+    df_combined_price_country = get_combined_country_price()
     bar = bars.create_data_bar(df, df_country)
     tech_bar = bars.create_tech_bar(df_combined_tech)
     price_bar = bars.create_price_bar(df_combined_price)
-    return render_template("bar.html", data=bar.render_data_uri(), tech_data=tech_bar.render_data_uri(), price_data=price_bar.render_data_uri())
+    price_country_bar = bars.create_price_country_bar(df_combined_price)
+    return render_template("bar.html", data=bar.render_data_uri(), tech_data=tech_bar.render_data_uri(), price_data=price_bar.render_data_uri(), price_country_data=price_country_bar.render_data_uri())
 
 # Route that shows the combined data we have worked with
 @app.route('/data')
@@ -59,7 +61,6 @@ def get_combined_tech():
 # Returning csv file
 def get_combined_price():
     return pd.read_csv('dataset/printers_combined_price.csv')
-
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0')

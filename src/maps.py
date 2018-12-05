@@ -4,7 +4,7 @@ import pandas as pd
 # Creating a map graph that displays how many 3-printers a country produces
 def create_data_map(df, df_country):
     worldmap_chart = pygal.maps.world.World()
-    worldmap_chart.title = 'Produced 3D-Printers per Country'
+    worldmap_chart.title = 'Antal 3D-Printere produceret per land'
 
     df_map = df.Country.unique()
     for countries in df_map:

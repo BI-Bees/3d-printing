@@ -16,19 +16,17 @@
     </div>
 </nav>
 
-<p>Her kan diverse grafer ses om er blevet lavet ud fra den data der kan findes under "Data Set"</p>
-
 <div class="country_bar">
-	<p>Denne graf viser hvor mange 3d-printer producenter der er per land</p>
 	<embed type="image/svg+xml" src= {{ data|safe }} />
 </div>
 <div class="tech_bar">
-	<p>Denne graf viser hvor mange teknologier der bliver brugt af 3d-printere</p>
 	<embed type="image/svg+xml" src= {{ tech_data|safe }} />
 </div>
 <div class="price_bar">
-	<p>Denne graf viser antallet af 3d-printere som ligge i hvilke pris leje</p>
 	<embed type="image/svg+xml" src= {{ price_data|safe }} />
+</div>
+<div class="price_country_bar">
+	<embed type="image/svg+xml" src= {{ price_country_data|safe }} />
 </div>
 
 </body>
