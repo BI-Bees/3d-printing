@@ -21,7 +21,7 @@ De sider som vi har brugt data fra kan ses herunder:
 
 * [developers.google.com](https://developers.google.com/public-data/docs/canonical/countries_csv)
 
-Derudover kan alle CSV filer vi har benyttet, samt generet findes i mappen [dataset.](https://github.com/BI-Bees/3d-printing/tree/master/dataset)
+Derudover kan alle CSV filer vi har generet findes i mappen [dataset.](https://github.com/BI-Bees/3d-printing/tree/master/dataset)
 
 ## Data Behandling
 
