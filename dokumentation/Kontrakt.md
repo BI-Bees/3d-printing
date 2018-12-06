@@ -1,6 +1,6 @@
 # Kontrakt 
 
-Kontrakt vedrørende dataoverlevering mellem mellem softwareudviklings- og innovation & entreprenørskabsgruppen.
+Kontrakt vedrørende dataoverlevering mellem softwareudviklings- og innovation & entreprenørskabsgruppen.
 
 ### Dato for overlevering
 Det aftalte materiale vil være klar senest den 7. december 2018, kl. 12.
