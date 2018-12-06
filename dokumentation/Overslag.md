@@ -10,4 +10,4 @@ Timeprisen er fastsat til 500 DKK.
 | Research  | 18    | 9000  |
 | Udvikling | 30    | 15000 |
 |           |       |       |
-| I alt     | 46    | 25000 |
+| I alt     | 50    | 25000 |
