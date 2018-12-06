@@ -8,6 +8,6 @@ Timeprisen er fastsat til 500 DKK.
 |-----------|-------|-------|
 | Møder     | 2     | 1000  |
 | Research  | 18    | 9000  |
-| Udvikling | 26    | 13000 |
+| Udvikling | 30    | 15000 |
 |           |       |       |
-| I alt     | 46    | 23000 |
+| I alt     | 46    | 25000 |
